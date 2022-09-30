@@ -1,6 +1,6 @@
 --- 
 title: "Evaluacion de Tierras"
-author: "Profesores Victor Sevilla, Juan carlos Rey y Barbara Rodriguez"
+author: "Profesores Victor Sevilla, Juan Carlos Rey y Barbara Rodriguez"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -19,15 +19,11 @@ github-repo: rstudio/bookdown-demo
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
-## Metas 
+## Bienvenida {-}
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+Bienvenidos a la Asignatura **Evaluacion de Tierras**. Cada uno de los iconos ubicados abajo son enlaces hacia información sobre la materia, como: objetivos, normas de la cátedra, programa de la asignatura, entre otros. Le sugerimos que comiences por leer las *Instrucciones* y luego podra navegar libremente por todas las secciones.
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
-
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
-
-## Render book
+## Instrucciones {-}
 
 You can render the HTML version of this example book without changing anything:
 
@@ -43,7 +39,7 @@ bookdown::render_book()
 
 To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
 
-## Preview book
+## Objetivos {-}
 
 As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
 
@@ -58,3 +54,7 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
+## Normas {-}
+## ¿Como aprobar? {-}
+## Profesores {-}
+

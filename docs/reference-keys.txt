@@ -1,17 +1,9 @@
 fig:nice-fig
 tab:nice-tab
 introduccion-a-la-asignatura
-metas
-render-book
-preview-book
 teorias
 a-section
 cross
-introduccion
-semana-1.
-semana-2.
-semana-3.
-semana-4.
 trabajo-extra---aula
 informacion-general
 footnotes
