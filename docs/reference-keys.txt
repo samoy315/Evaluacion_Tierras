@@ -1,7 +1,5 @@
 fig:nice-fig
 tab:nice-tab
-eq:binom
-thm:tri
 introduccion-a-la-asignatura
 metas
 render-book
@@ -14,15 +12,7 @@ semana-1.
 semana-2.
 semana-3.
 semana-4.
-parts
-footnotes-and-citations
+trabajo-extra---aula
+informacion-general
 footnotes
 citations
-blocks
-equations
-theorems-and-proofs
-callout-blocks
-sharing-your-book
-publishing
-pages
-metadata-for-sharing
