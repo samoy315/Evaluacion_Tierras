@@ -1,6 +1,6 @@
 --- 
 title: "Evaluacion de Tierras"
-author: "Profesores Victor Sevilla, Juan carlos Rey y barbara Rodriguez"
+author: "Profesores Victor Sevilla, Juan carlos Rey y Barbara Rodriguez"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -15,11 +15,11 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
+# Introduccion a la asignatura
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
-## Usage 
+## Metas 
 
 Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
 
