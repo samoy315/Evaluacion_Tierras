@@ -1,5 +1,5 @@
 --- 
-title: "Evaluacion de Tierras"
+title: "EVALUACION DE TIERRAS"
 author: "Profesores Victor Sevilla, Juan Carlos Rey y Barbara Rodriguez"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -25,36 +25,58 @@ Bienvenidos a la Asignatura **Evaluacion de Tierras**. Cada uno de los iconos ub
 
 ## Instrucciones {-}
 
-You can render the HTML version of this example book without changing anything:
+En esta página encontrará diferentes elementos necesarios para cursar con éxito nuestra asignatura, tales como:  indicaciones generales, programación de actividades, sistemas de evaluación, entre muchas más información. Además podrá descargar las presentaciones teóricas y guías prácticas en formatos documentos, datos para el trabajo extra - aula, inclusives encontrará enlaces que lo llevaran a los videos y formularios disponibles en la asignatura.
 
-1. Find the **Build** pane in the RStudio IDE, and
+Puede seguir los enlaces disponibles dentro del texto para moverse entre diferentes elementos  y aspectos que comprende esta página.
 
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
+Esta página ha sido diseñada para complementar las actividades presenciales (sesiones teóricas y prácticas) y para tratar de maximizar las interacciones entre alumnos y profesores sobre las actividades a realizar.
 
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
+También en esta página podrá revisar las calificaciones, lo que te permitirá llevar un registro de tu rendimiento académico.
 
 ## Objetivos {-}
 
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
+#### General {-}
 
-```{r eval=FALSE}
-bookdown::serve_book()
-```
+El objetivo general de esta asignatura es capacitar a los estudiantes en la evaluación e interpretación de información básica sobre clima, biota, hidrología, suelos, geología y geomorfología, para establecer la capacidad de uso agropecuario que posean las tierras y su aptitud para usos agrícolas específicos sostenibles.
+
+#### Específicos {-}
+
+* Repasar conceptos generales de Clasificación taxonómica y Cartografía de los suelos.
+* Conocer la variabilidad espacial de las tierras en el país,  evidenciando limitaciones, potencialidades y suelos de referencia.
+* Aplicar los fundamentos de la Evaluación de las Tierras, mediante las metodologías empleadas en el país altamente comprobadas y de uso generalizado.
+* Evaluar en campo las tierras en parcelas agropecuarias con limitada información.
 
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
 ## Normas {-}
+
+Evaluación de Tierras es una asignatura del séptimo semestre, y se dicta en una sesión Teórica-práctica de 3 horas de duración los días jueves y viernes en el horario de 1:30 pm – 4:45 pm en aulas del Departamento de Edafología.
+
+Las sesiones Teórico-prácticas son de obligatoria asistencia, tal como lo establece el reglamento vigente.
+
+Debes asistir a la sección Teórico-prácticas en la cual se inscribió; no puedes recuperar prácticas en otro grupo sin la debida autorización de su profesor y del profesor del grupo al cual quieres asistir.
+
+Solo se te permitirá la recuperación de una práctica por cada Unidad de la asignatura.
+
+La no asistencia o incumplimiento de las actividades programadas por la Cátedra deberá ser informada por escrito a la Cátedra dentro de las 48 horas de haber ocurrido la falta, incluyendo las constancias y los avales necesarios para su justificación.
+
+Deberás entregar la comunicación y los avales respectivos en la Secretaría del Departamento de Edafología o enviarla al correo electrónico del profesor  samoy315@gmail.com, donde será considerada en la próxima reunión de cátedra.
+
+Si tienes algún problema personal o actividad permanente que le impida asistir a las clases, debes dirigirte a la Dirección de Escuela o al Consejo de Facultad solicitando aval para las inasistencias, pues la Cátedra no tiene potestad para hacerlo.
+
+La cátedra de Evaluación de Tierras, con sus profesores y todo el personal de apoyo, están a su disposición para orientarte y ayudarte a solventar los problemas que se le puedan presentar, siempre y cuando acudas a ellos, conozcan y acaten las reglas establecidas y asuma con responsabilidad el compromiso con la asignatura.
+
 ## ¿Como aprobar? {-}
+
+Para poder aprobar esta asignatura, deberá obtener una calificación mínima acumulada de 10 puntos (escala de 1 al 20 puntos), basado en la información que se presenta en el siguiente cuadro 1. Las evaluaciones perdidas contarán como cero puntos.
+
+<center>*Cuadro 1. Plan de evaluacion de la asignatura*</center>
+
+| Unidades | Actividades | Ponderacion |
+|---|---|---|
+| 1.Variabilidad de las tierras en Venezuela | Asignacion (tareas) y Prueba cortas | 30% |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 |
+
+
 ## Profesores {-}
 
