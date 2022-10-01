@@ -78,12 +78,6 @@ Para poder aprobar esta asignatura, deberá obtener una calificación mínima ac
 
 <center>*Cuadro 1. Plan de evaluacion de la asignatura*</center>
 
-| Unidades | Actividades | Ponderacion |
-|:---:|:------------|:---:|
-| 1.Variabilidad de las tierras en Venezuela | Asignación (tareas) y pruebas cortas (20%) Trabajo Extra aula  (30 %).   Evaluación integral de la Unidad I (50%) | 30% |
-| 1 | 2 | 3 |
-| 1 | 2 | 3 |
-
 ---
 
 ## Profesores {-}
@@ -120,9 +114,6 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 |1|5|Presentacion de evaluacion final de la unidad 1|
 ---
 
-|Unidad| secciones|
-|---|---|---|
-
 ![imagen de aprobar](Imagenes/Aprobar1.PNG)
 
 ---
@@ -130,7 +121,7 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 <div>
 <p style = 'text-align:center;'>
 <a href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/whatsapp.png" alt="texto alternativo" width="100" height="100"/></a>
-<a href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/toldo_ilustraccion3.png" alt="texto alternativo" width="100" height="100"/></a>
+<a href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/youtube1.png" alt="texto alternativo" width="150" height="160"/></a>
 </p>
 </div>
 
