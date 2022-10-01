@@ -82,3 +82,6 @@ Para poder aprobar esta asignatura, deberá obtener una calificación mínima ac
 
 <center> *Cuadro 2. Profesores de la asignatura **Evaluacion de Tierras*** </center>
 
+[rmarkdown_reference.pdf](https://github.com/JoseCaicedoDev/cardReact/files/9688200/rmarkdown_reference.pdf)
+
+Aqui podra descargar el libro de Hobbit [Libro del Hobbit](pdf/hobbit.pdf)
