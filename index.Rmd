@@ -72,11 +72,13 @@ Para poder aprobar esta asignatura, deberá obtener una calificación mínima ac
 <center>*Cuadro 1. Plan de evaluacion de la asignatura*</center>
 
 | Unidades | Actividades | Ponderacion |
-|---|---|---|
+|:---:|:---:|:---:|
 | 1.Variabilidad de las tierras en Venezuela | Asignacion (tareas) y Prueba cortas | 30% |
 | 1 | 2 | 3 |
 | 1 | 2 | 3 |
 
 
 ## Profesores {-}
+
+<center> *Cuadro 2. Profesores de la asignatura **Evaluacion de Tierras*** </center>
 
