@@ -1,8 +1,12 @@
 # Informacion General 
 
-## Footnotes
+## Estudiantes 2022
 
-Footnotes are put inside the square brackets after a caret `^[]`. Like this one ^[This is a footnote.]. 
+<center>**Cuadro 3. Estudiantes del año 2022**</center>
+
+|Estudiantes|Seccion|Grupo|
+|:---:|:---:|:---:|
+|Victor Sevilla|Viernes pm|2|
 
 ## Citations
 
