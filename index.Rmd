@@ -21,19 +21,19 @@ github-repo: rstudio/bookdown-demo
 
 ## Bienvenida {-}
 
-Bienvenidos a la Asignatura **Evaluacion de Tierras**. Cada uno de los iconos ubicados abajo son enlaces hacia información sobre la materia, como: objetivos, normas de la cátedra, programa de la asignatura, entre otros. Le sugerimos que comiences por leer las *Instrucciones* y luego podra navegar libremente por todas las secciones.
+Los miembros de la cátedra de **Evaluación de Tierras**, le damos la más cordial bienvenida a nuestra asignatura. En nuestra Cátedra nos encontramos muy entusiasmados con el inicio de otro nuevo semestre, en donde lo acompañaremos en la aventura de aprender a caracterizar, clasificar y evaluar las tierras agrícolas con el fin de conocer su vocación agrícola sostenible.
 
 ---
 
 ## Instrucciones {-}
 
-En esta página encontrará diferentes elementos necesarios para cursar con éxito nuestra asignatura, tales como:  indicaciones generales, programación de actividades, sistemas de evaluación, entre muchas más información. Además podrá descargar las presentaciones teóricas y guías prácticas en formatos documentos, datos para el trabajo extra - aula, inclusives encontrará enlaces que lo llevaran a los videos y formularios disponibles en la asignatura.
+En esta página encontrará diferentes elementos necesarios para cursar con éxito nuestra asignatura, como:  indicaciones generales, programación de actividades, sistemas de evaluación, materiales teóricos, prácticos (guías), datos del trabajo extra - aula, y bibliografías de interés para su lectura. También encontrará enlaces para la descarga de mucha de la información e inclusive link que lo llevaran a los videos,  formularios y cuestionarios disponibles de la asignatura.
 
-Puede seguir los enlaces disponibles dentro del texto para moverse entre diferentes elementos  y aspectos que comprende esta página.
+Puede seguir los enlaces disponibles dentro del texto para moverse entre diferentes los elementos  y aspectos que comprende esta página.
 
-Esta página ha sido diseñada para complementar las actividades presenciales (sesiones teóricas y prácticas) y para tratar de maximizar las interacciones entre alumnos y profesores sobre las actividades a realizar.
+Esta página ha sido diseñada para complementar las actividades presenciales y maximizar las interacciones entre alumnos y profesores sobre las actividades a realizar.
 
-También en esta página podrá revisar las calificaciones, lo que te permitirá llevar un registro de tu rendimiento académico.
+También podrá revisar las calificaciones, lo que le permitirá llevar un registro de tu rendimiento académico.
 
 ---
 
@@ -80,7 +80,7 @@ Para poder aprobar esta asignatura, deberá obtener una calificación mínima ac
 
 | Unidades | Actividades | Ponderacion |
 |:---:|:---:|:---:|
-| 1.Variabilidad de las tierras en Venezuela | Asignacion (tareas) y Prueba cortas | 30% |
+| 1.Variabilidad de las tierras en Venezuela | Asignacion (tareas) y Prueba cortas  | 30% |
 | 1 | 2 | 3 |
 | 1 | 2 | 3 |
 
@@ -88,16 +88,38 @@ Para poder aprobar esta asignatura, deberá obtener una calificación mínima ac
 
 ## Profesores {-}
 
-El personal docente de la asignatura se muestra en el Cuadro 2. No esta demas hacer de su conocimiento que estamos a su disposición para ayudarlo a avanzar en su proceso de formación y por eso, no dudes en contactarnos si lo requiere.
+Conozca nuestro personal docente en el Cuadro 2. y no está demás hacer de su conocimiento que estamos a su disposición para ayudarlo a avanzar en su proceso de formación y por eso, no dudes en contactarnos si lo requiere.
 
 <center> ***Cuadro 2.** Profesores de la asignatura **Evaluacion de Tierras*** </center>
 
 |Profesor|Seccion|Correo|
 |:---:|:---:|:---:|
-|Juan Carlos Rey|Jueves pm|jcr67@gmail.com|
+|Juan Carlos Rey|Jueves pm|jcrey67@gmail.com|
 |Victor Sevilla|Viernes pm|vasl66@gmail.com|
-|Barbara Rodriguez|Jueves pm y Viernes pm|xxxx@gmail.com|
+|Barbara Rodriguez|Jueves pm y Viernes pm|barbara.rodriguez.mg@gmail.com|
+
+
+
+---
+
+## Calendario academico {-}
+
+A continuación se muestra en el cuadro 3, el contenido del curso de **Evaluación de Tierras**, y se lista los temas a desarrollar y la semana correspondiente. Cada unidad dispondrá de materiales de estudio (teóricos - prácticos), actividades y evaluaciones.
+
+Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de manera presencial, en las semanas indicadas.
+
+<center>***Cuadro 3**. Calendario academico*</center>
+
+|Unidad|Semana|Contenido|
+|:---:|:---:|:---|
+|1|0|Presentacion de la asignatura|
+|1|1|Clasificacion taxonomica de suelos|
+|1|2|Cartografia de suelos|
+|1|3|Variabilidad espacial de los suelos en Venezuela|
+|1|4|Presentacion de Trabajo extra - aula|
+|1|5|Presentacion de evaluacion final de la unidad 1|
+---
 
  [rmarkdown_reference.pdf](https://github.com/JoseCaicedoDev/cardReact/files/9688200/rmarkdown_reference.pdf)
 
-Aqui podra descargar el libro de Hobbit [Libro del Hobbit](pdf/hobbit.pdf)
+aqui podra descargar el libro de Hobbit [Libro del Hobbit](pdf/hobbit.pdf)
