@@ -127,7 +127,7 @@ aqui podra descargar el libro de Hobbit [Libro del Hobbit](pdf/hobbit.pdf)
 
 <div>
 <p style = 'text-align:center;'>
-<iframe width="600" height = "420"
+<iframe width="400" height = "220"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
 </div>
