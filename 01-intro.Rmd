@@ -1,8 +1,34 @@
-# Teorias 
+# Unidad I 
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+Esta primera Unidad consta de cinco semanas de actividades, en la que pretendemos cubrir los conceptos y principios básicos de la **Clasificación taxonómica y **Cartografía de los suelos**, así como mostrar un ejemplo de la gran **Variabilidad espacial de tierras** en nuestro país. En esta sección encontrará diversa información como: materiales de estudio (Presentaciones de las clases teóricas, guías de prácticas, videos y bibliografías recomendadas para su lectura) e Información para la realización del trabajo Extra - aula. Le sugerimos que revises constantemente esta sección, ya que se estará actualizando constantemente.
 
-## A section
+---
+
+### Semana 0 {-}
+#### Teoria {-}
+#### Practica {-}
+
+---
+
+## Semana 1 {-}
+### Teoria {-}
+### Practica {-}
+
+---
+
+## Semana 2 {-}
+### Teoria {-}
+### Practica {-}
+## Semana 3 {-}
+### Teoria {-}
+### Practica {-}
+## Semana 4 {-}
+### Teoria {-}
+### Practica {-}
+## Semana 5 {-}
+### Teoria {-}
+### Practica {-}
+
 
 All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
 

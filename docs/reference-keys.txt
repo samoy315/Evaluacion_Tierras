@@ -1,8 +1,8 @@
 fig:nice-fig
 tab:nice-tab
 introduccion-a-la-asignatura
-teorias
-a-section
+bienvenida
+unidad-i
 cross
 trabajo-extra---aula
 informacion-general
