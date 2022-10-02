@@ -114,7 +114,7 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 |1|5|Presentacion de evaluacion final de la unidad 1|
 ---
 
-<!-- ![imagen de aprobar](Imagenes/Aprobar1.PNG) -->
+![imagen de aprobar](Imagenes/Aprobar2.PNG)
 
 <div>
 <p style = 'text-align:center;'>
