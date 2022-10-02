@@ -78,6 +78,8 @@ Para poder aprobar esta asignatura, deberá obtener una calificación mínima ac
 
 <center>*Cuadro 1. Plan de evaluacion de la asignatura*</center>
 
+![imagen de aprobar](Imagenes/Aprobar2.PNG)
+
 ---
 
 ## Profesores {-}
@@ -92,29 +94,51 @@ Conozca nuestro personal docente en el Cuadro 2. y no está demás hacer de su c
 |Victor Sevilla|Viernes pm|vasl66@gmail.com|
 |Barbara Rodriguez|Jueves pm y Viernes pm|barbara.rodriguez.mg@gmail.com|
 
-
-
 ---
 
 ## Calendario academico {-}
 
-A continuación se muestra en el cuadro 3, el contenido del curso de **Evaluación de Tierras**, y se lista los temas a desarrollar y la semana correspondiente. Cada unidad dispondrá de materiales de estudio (teóricos - prácticos), actividades y evaluaciones.
+A continuación el Cuadro 3, muestra los contenidos de la asignatura de **Evaluación de Tierras**, y su semana correspondiente. Cada unidad dispondrá de materiales de estudio (teóricos - prácticos), actividades y evaluaciones.
 
 Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de manera presencial, en las semanas indicadas.
 
 <center>***Cuadro 3**. Calendario academico*</center>
 
-|Unidad|Semana|Contenido|
-|:---:|:---:|:---|
-|1|0|Presentacion de la asignatura|
-|1|1|Clasificacion taxonomica de suelos|
-|1|2|Cartografia de suelos|
-|1|3|Variabilidad espacial de los suelos en Venezuela|
-|1|4|Presentacion de Trabajo extra - aula|
-|1|5|Presentacion de evaluacion final de la unidad 1|
----
+<h6 style="text-align: center;">Unidad 1</h1>
 
-![imagen de aprobar](Imagenes/Aprobar2.PNG)
+|Semana|Contenido|
+|:---:|:---|
+|0|Presentación de la asignatura|
+|1|Clasificación taxonómica de suelos|
+|2|Cartografía de suelos|
+|3|Variabilidad espacial de los suelos en Venezuela y **Prueba corta I**|
+|4|**Presentación oral de trabajo extra - aula**|
+|5|**Presentación de Examen teórico - práctico**|
+
+<h6 style="text-align: center;">Unidad 2</h1>
+
+|Semana|Contenido|
+|:---:|:---|
+|6|Evaluación de tierras por su capacidad de uso agropecuario|
+|7|Directivas FAO: Cualidades y Tipos de utilización de Tierras|
+|8|Directivas FAO: Cualidad Humedad Disponible|
+|9|Clasificación de las tierras según Fertilidad y **Prueba corta**|
+|10|Evaluación de tierras con fines de riego|
+|11|**Presentación oral de trabajo extra - aula**|
+|12|**Presentación de Examen teórico - práctico**|
+
+<h6 style="text-align: center;">Unidad 3</h1>
+
+|Semana|Contenido|
+|:---:|:---|
+|13|Lectura de Mapas y Ubicación de suelos - Práctica de campo|
+|14|Interpretación de Fotografías aéreas - Aula de clases|
+|15|Evaluación de tierras con escasa información en **campo** y **Prueba corta**|
+|16|**Presentación oral de trabajo extra - aula**|
+|17|**Presentación de Examen teórico - práctico**|
+|18|**Recuperación de Unidades I, II y III**|
+
+---
 
 <div>
 <p style = 'text-align:center;'>
