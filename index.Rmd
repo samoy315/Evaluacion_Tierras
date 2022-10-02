@@ -114,9 +114,7 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 |1|5|Presentacion de evaluacion final de la unidad 1|
 ---
 
-![imagen de aprobar](Imagenes/Aprobar1.PNG)
-
----
+<!-- ![imagen de aprobar](Imagenes/Aprobar1.PNG) -->
 
 <div>
 <p style = 'text-align:center;'>
@@ -126,7 +124,7 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 </div>
 
  <!-- width="100" height="100" -->
- [rmarkdown_reference.pdf](https://github.com/JoseCaicedoDev/cardReact/files/9688200/rmarkdown_reference.pdf)
+ <!-- [rmarkdown_reference.pdf](https://github.com/JoseCaicedoDev/cardReact/files/9688200/rmarkdown_reference.pdf) -->
 
 <!-- aqui podra descargar el libro de Hobbit [Libro del Hobbit](pdf/hobbit.pdf) -->
 
