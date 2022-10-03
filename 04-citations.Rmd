@@ -1,12 +1,4 @@
-# Informacion General 
-
-## Estudiantes 2022
-
-<center>**Cuadro 3. Estudiantes del año 2022**</center>
-
-|Estudiantes|Seccion|Grupo|
-|:---:|:---:|:---:|
-|Victor Sevilla|Viernes pm|2|
+# Trabajo Extra - aula 
 
 ## Citations
 

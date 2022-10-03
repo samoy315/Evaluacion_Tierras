@@ -1,0 +1,28 @@
+# Informacion General
+
+## Estudiantes 2022
+
+<center>**Cuadro 3. Estudiantes del año 2022**</center>
+
+|Estudiantes|Seccion|Dia|Correo|
+|:----------|:---:|---------|---|
+|aristigueta, reinaldo|01|jueves pm|	r74525@gmail.com|
+|gerig, noryelis|01|jueves pm|	ngerig9714@gmail.com|
+|gonzalez, mayerlin|01|jueves pm|	gonzalezmayerlin97@gmail.com|
+|leonard, samuel|01|jueves pm|	sdlcaldera@gmail.com|
+|moreno, felix|01|jueves pm|	felixandresmoreno00@gmail.com|
+|muñoz, omar|01|jueves pm|	omar.mz148@gmail.com|
+|peña, luis|01|jueves pm|	luis.toto.leal@gmailcom|
+|ramirez, alfredo|01|jueves pm|	at.rd14@gmail.com|
+|ruiz, francisco|01|jueves pm|	fcojvruiz@gmail.com|
+|torres, diego|01|jueves pm|	dgtorres838@gmail.com|
+|calaza, jose|02|viernes pm|	josemcalaza110595@gmail.com|
+|carrero, isis|02|viernes pm|	isiscarolina90@gmail.com|
+|izaguirre, jose|02|viernes pm|	**jose.izaguirre.20896876**|
+|lugo, luis|02|viernes pm|	lugo.lz.luis@gmail.com|
+|mendoza, gabriel|02|viernes pm|	**gabriel.mendoza.17578774**|
+|miliani, domingo|02|viernes pm|	miliani1105@gmail.com|
+|reina, gian|02|viernes pm|	gianalexrs@gmail.com|
+|ruh, evaristo|02|viernes pm|	evaristoruh1997@gmail.com|
+|ruh, rafael|02|viernes pm|	rafel.ruh.aguirre@gmail.com|
+|tovar, diego|02|viernes pm|	dtovar808@gmail.com|
