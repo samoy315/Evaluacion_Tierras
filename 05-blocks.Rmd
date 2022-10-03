@@ -5,7 +5,7 @@
 <center>**Cuadro 3. Estudiantes del año 2022**</center>
 
 |Estudiantes|Seccion|Dia|Correo|
-|:----------|:---:|---------|---|
+|:---|:---:|---|---|
 |aristigueta, reinaldo|01|jueves pm|	r74525@gmail.com|
 |gerig, noryelis|01|jueves pm|	ngerig9714@gmail.com|
 |gonzalez, mayerlin|01|jueves pm|	gonzalezmayerlin97@gmail.com|
