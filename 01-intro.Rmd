@@ -1,37 +1,67 @@
 # Unidad I 
 
-Esta primera Unidad consta de cinco semanas de actividades, en la que pretendemos cubrir los conceptos y principios básicos de la **Clasificación taxonómica y **Cartografía de los suelos**, así como mostrar un ejemplo de la gran **Variabilidad espacial de tierras** en nuestro país. En esta sección encontrará diversa información como: materiales de estudio (Presentaciones de las clases teóricas, guías de prácticas, videos y bibliografías recomendadas para su lectura) e Información para la realización del trabajo Extra - aula. Le sugerimos que revises constantemente esta sección, ya que se estará actualizando constantemente.
+Esta primera Unidad consta de cinco semanas de actividades, en la que pretendemos cubrir los conceptos y principios básicos de la **Clasificación taxonómica y Cartografía de los suelos**, así como mostrar un ejemplo de la gran **Variabilidad espacial de tierras** en nuestro país. En esta sección encontrará diversa información como: materiales de estudio (Presentaciones de las clases teóricas, guías de prácticas, videos y bibliografías recomendadas para su lectura) e Información para la realización del trabajo Extra - aula. Le sugerimos que revises constantemente esta sección, ya que se estará actualizando constantemente.
 
 ---
-
 ### Semana 0 {-}
-#### Teoria {-}
-#### Practica {-}
+###### Presentacion de la asignatura {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/presentacion2.png" alt="texto alternativo" width="126" height="107"/></a>
+<a href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/youtube5.png" alt="texto alternativo" width="150" height="107"/></a>
+</p>
+</div>
 
 ---
 
-## Semana 1 {-}
-### Teoria {-}
-### Practica {-}
+### Semana 1 {-}
+###### Clasificación taxonómica de suelos {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/presentacion2.png" alt="texto alternativo" width="126" height="107"/></a>
+<a href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/youtube5.png" alt="texto alternativo" width="150" height="107"/></a>
+</p>
+</div>
 
 ---
 
-## Semana 2 {-}
-### Teoria {-}
-### Practica {-}
-## Semana 3 {-}
-### Teoria {-}
-### Practica {-}
-## Semana 4 {-}
-### Teoria {-}
-### Practica {-}
-## Semana 5 {-}
-### Teoria {-}
-### Practica {-}
+### Semana 2 {-}
+###### Cartografía de suelos {-}
 
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/presentacion2.png" alt="texto alternativo" width="126" height="107"/></a>
+<a href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/youtube5.png" alt="texto alternativo" width="150" height="107"/></a>
+</p>
+</div>
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+---
 
-### An unnumbered section {-}
+### Semana 3 {-}
+###### Variabilidad espacial de los suelos en Venezuela {-}
 
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/presentacion2.png" alt="texto alternativo" width="126" height="107"/></a>
+<a href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/youtube5.png" alt="texto alternativo" width="150" height="107"/></a>
+</p>
+</div>
+
+---
+
+### Semana 4 {-}
+###### Presentación oral de trabajo extra - aula {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/hobbit.pdf" target="_blank" title="ir al pdf"><img src="Imagenes/presentacion2.png" alt="texto alternativo" width="126" height="107"/></a>
+</p>
+</div>
+---
+
+### Semana 5 {-}
+###### Presentación de Examen teórico - práctico {-}
+
+---

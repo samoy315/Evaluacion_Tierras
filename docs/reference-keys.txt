@@ -1,9 +1,8 @@
 fig:nice-fig
 tab:nice-tab
 introduccion-a-la-asignatura
-bienvenida
 unidad-i
-cross
+unidad-ii
 trabajo-extra---aula
 informacion-general
 estudiantes-2022

@@ -1,4 +1,43 @@
-# Practicas {#cross}
+# Unidad II
+
+Esta segunda unidad consta de siete semanas de actividades, en donde conoceremos los principios fundamentales, características y objetivos de diferentes sistemas de clasificación de tierra, como:
+
+* Capacidad de Uso Agropecuario de las Tierras
+* Directivas FAO para la evaluación de la aptitud de las tierras para usos específicos
+* Clasificación con fines de Capacidad de Fertilidad de los suelos.
+* Clasificación de las tierras con fines de Riego
+
+También aplicaremos los diferentes sistemas de clasificación en estudios de caso con datos reales.
+
+En esta sección encontrará diversa información como: materiales de estudio (Presentaciones de las clases teóricas, Guías de prácticas, videos y bibliografías recomendadas para su lectura) e Información para la realización del trabajo Extra - aula. Le sugerimos que revises constantemente esta sección, ya que se estará actualizando constantemente.
+
+---
+
+### Semana 0 {-}
+#### Teoria {-}
+#### Practica {-}
+
+---
+
+## Semana 1 {-}
+### Teoria {-}
+### Practica {-}
+
+---
+
+## Semana 2 {-}
+### Teoria {-}
+### Practica {-}
+## Semana 3 {-}
+### Teoria {-}
+### Practica {-}
+## Semana 4 {-}
+### Teoria {-}
+### Practica {-}
+## Semana 5 {-}
+### Teoria {-}
+### Practica {-}
+
 
 Cross-references make it easier for your readers to find and link to elements in your book.
 

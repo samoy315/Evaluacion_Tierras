@@ -19,7 +19,7 @@ github-repo: rstudio/bookdown-demo
 
 ---
 
-## Bienvenida
+## Bienvenida {-}
 
 Los miembros de la cátedra de **Evaluación de Tierras**, le damos la más cordial bienvenida a nuestra asignatura. En nuestra Cátedra nos encontramos muy entusiasmados con el inicio de otro nuevo semestre, en donde lo acompañaremos en la aventura de aprender a caracterizar, clasificar y evaluar las tierras agrícolas con el fin de conocer su vocación agrícola sostenible.
 
@@ -78,7 +78,7 @@ Para poder aprobar esta asignatura, deberá obtener una calificación mínima ac
 
 <center>*Cuadro 1. Plan de evaluacion de la asignatura*</center>
 
-![imagen de aprobar](Imagenes/Aprobar2.PNG)
+![](Imagenes/Aprobar2.PNG)
 
 ---
 
