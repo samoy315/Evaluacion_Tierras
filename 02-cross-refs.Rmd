@@ -14,29 +14,72 @@ En esta sección encontrará diversa información como: materiales de estudio (P
 ---
 
 ### Semana 6 {-}
+###### Sistema de clasificacion por la Capacidad de uso agrpecuario de las tierras {-}
 
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_00.pdf" target="_blank" title="Presentacion de la asignatura"><img src="Imagenes/presentacion2.png" alt="Bienvenida" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Guia_practica_unidad_1.pdf" target="_blank" title="Guia practica Unidad 1"><img src="Imagenes/practica3.png" alt="Guia Practica 1" width="126" height="107"/></a>
+<a href="pdf/hobbit.pdf" target="_blank" title="Video introductorio Practica 1"><img src="Imagenes/youtube5.png" alt="texto alternativo" width="150" height="107"/></a>
+</p>
+</div>
 ---
 
 ## Semana 7 {-}
+###### Clasificación taxonómica de suelos {-}
 
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_01_Clasificacion_suelos.pdf" target="_blank" title="Clasificacion taxonomica de suelos"><img src="Imagenes/presentacion2.png" alt="Taxonomia" width="126" height="107"/></a>
+<a href="pdf/hobbit.pdf" target="_blank" title="Video introductorio Practica 2"><img src="Imagenes/youtube5.png" alt="texto alternativo" width="150" height="107"/></a>
+</p>
+</div>
 ---
 
 ## Semana 8 {-}
+###### Clasificación taxonómica de suelos {-}
 
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_01_Clasificacion_suelos.pdf" target="_blank" title="Clasificacion taxonomica de suelos"><img src="Imagenes/presentacion2.png" alt="Taxonomia" width="126" height="107"/></a>
+<a href="pdf/hobbit.pdf" target="_blank" title="Video introductorio Practica 2"><img src="Imagenes/youtube5.png" alt="texto alternativo" width="150" height="107"/></a>
+</p>
+</div>
 ---
 
 ## Semana 9 {-}
+###### Clasificación taxonómica de suelos {-}
 
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_01_Clasificacion_suelos.pdf" target="_blank" title="Clasificacion taxonomica de suelos"><img src="Imagenes/presentacion2.png" alt="Taxonomia" width="126" height="107"/></a>
+<a href="pdf/hobbit.pdf" target="_blank" title="Video introductorio Practica 2"><img src="Imagenes/youtube5.png" alt="texto alternativo" width="150" height="107"/></a>
+</p>
+</div>
 ---
 
 ## Semana 10 {-}
+###### Clasificación taxonómica de suelos {-}
 
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_01_Clasificacion_suelos.pdf" target="_blank" title="Clasificacion taxonomica de suelos"><img src="Imagenes/presentacion2.png" alt="Taxonomia" width="126" height="107"/></a>
+<a href="pdf/hobbit.pdf" target="_blank" title="Video introductorio Practica 2"><img src="Imagenes/youtube5.png" alt="texto alternativo" width="150" height="107"/></a>
+</p>
+</div>
 ---
 
 ## Semana 11 {-}
+###### Presentación oral de trabajo extra - aula {-}
 
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/hobbit.pdf" target="_blank" title="Clase de repaso de la unidad 2"><img src="Imagenes/presentacion2.png" alt="texto alternativo" width="126" height="107"/></a>
+</p>
+</div>
 ---
 
 ## Semana 12 {-}
+###### Presentación de Examen teórico - práctico {-}
 
 ---

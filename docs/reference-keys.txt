@@ -3,6 +3,5 @@ unidad-i
 unidad-ii
 unidad-iii
 trabajo-extra---aula
-citations
 informacion-general
-estudiantes-2022
+material-bibliografico

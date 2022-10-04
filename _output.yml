@@ -6,5 +6,5 @@ bookdown::gitbook:
         <li><b><a href="./">EVALUACION DE TIERRAS</a></b></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
-    download: ["pdf", "epub"]
+#    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+#    download: ["pdf", "epub"]
