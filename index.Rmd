@@ -15,7 +15,9 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Introduccion a la asignatura
+# Introduccion a la asignatura {-}
+
+<center>![](Imagenes/Portada.png)</center>
 
 ---
 

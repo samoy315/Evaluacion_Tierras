@@ -1,1 +1,37 @@
 # Trabajo Extra - aula 
+
+En este espacio encontrará las instrucciones y el material (perfiles de suelos) necesario para que realice con éxito su **Trabajo Extra-Aula**. En el caso particular de los “Perfiles de suelos”, los mismos serán asignados a cada equipo de trabajo. Además tendrá acceso a diferentes materiales bibliográficos de apoyo.
+
+El trabajo extra - aula será una actividad a realizar en grupos constituidos por tres alumnos, y a cada alumno del grupo le será asignado un perfil de suelos, el cual trabajará durante todo el semestre siguiendo las instrucciones entregadas y la experiencia adquirida al realizar las prácticas de la asignatura.
+
+A continuación dispone de tres iconos donde descargar los Perfiles de suelos, la Guía con instrucciones y un video explicativo.
+
+---
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="xxxx.pdf" target="_blank" title="Perfiles de suelos"><img src="Imagenes/perfiles3.png" alt="Perfiles de suelos" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Guia_trabajo_extra_aula.pdf" target="_blank" title="Guia del Trabajo Extra - aula"><img src="Imagenes/practica3.png" alt="Guia del Trabajo Extra - aula" width="126" height="107"/></a>
+<a href="pdf/xxx.pdf" target="_blank" title="Video del Trabajo Extra - aula"><img src="Imagenes/youtube5.png" alt="trabajo extra - aula" width="150" height="107"/></a>
+</p>
+</div>
+
+---
+
+### Perfiles de suelos {-}
+
+
+|Perfiles de suelos|
+|:---:|
+|[Descripción del suelo 01](pdf/Perfiles/Suelo-01.pdf)|
+|[Descripción del suelo 02](pdf/Perfiles/Suelo-02.pdf)|
+|[Descripción del suelo 03](pdf/Perfiles/Suelo-03.pdf)|
+|[Descripción del suelo 04](pdf/Perfiles/Suelo-04.pdf)|
+|[Descripción del suelo 05](pdf/Perfiles/Suelo-05.pdf)|
+|[Descripción del suelo 06](pdf/Perfiles/Suelo-06.pdf)|
+|[Descripción del suelo 07](pdf/Perfiles/Suelo-07.pdf)|
+|[Descripción del suelo 08](pdf/Perfiles/Suelo-08.pdf)|
+|[Descripción del suelo 09](pdf/Perfiles/Suelo-09.pdf)|
+|[Descripción del suelo 10](pdf/Perfiles/Suelo-10.pdf)|
+|[Descripción del suelo 11](pdf/Perfiles/Suelo-11.pdf)|
+
