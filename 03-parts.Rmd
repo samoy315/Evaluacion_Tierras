@@ -4,6 +4,13 @@ You can add parts to organize one or more book chapters together. Parts can be i
 
 ---
 
+<div>
+<p style = 'text-align:center;'>
+<a>
+<img src="Imagenes/construccion2.png" alt="Riego" width="126" height="107"/></a>
+</p>
+</div>
+
 ### Semana 13 {-}
 
 ---
