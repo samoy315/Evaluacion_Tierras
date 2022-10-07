@@ -106,8 +106,8 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 
 <h6 style="text-align: center;">Unidad 1</h1>
 
-|Semana|Contenido|
-|:---:|:---|
+|Semana|Contenido|Modalidad|
+|:---:|:---|:---:|
 |0|Presentación de la asignatura|
 |1|Clasificación taxonómica de suelos|
 |2|Cartografía de suelos|

@@ -1,5 +1,24 @@
 # Material bibliografico
 
 #### Unidad I {-}
+
+<center>***Cuadro xx**. Material Bibliografico para la Unidad 1* </center>
+
+|Descripción del material|
+|:---|
+|[Concepto de Suelos](pdf/Unidad1/Concepto_de_suelo.PDF)|
+|[Clasificación taxonómica de los suelos](pdf/Unidad1/Clasificacion_de_suelos.pdf)|
+|[Clave taxonómica de los suelos](pdf/Unidad1/Clave_taxonomia_suelos_2014.pdf)|
+|[Condiciones limitantes y Órdenes de los suelos](pdf/Unidad1/Condiciones_limitantes_ordenes_suelos.PDF)|
+
+
 #### Unidad II {-}
-#### Unidad III {-}
+
+<center>***Cuadro xx**. Material Bibliografico para la Unidad 2* </center>
+
+|Descripción del material|
+|:---|
+|[Directivas FAO para la evaluación de tierras en agricultura de secano](pdf/Unidad2/Directivas_evaluacion_tierras_agricultura_secano.pdf)|
+|[Directivas FAO para la evaluación de tierras en agricultura de regadío](pdf/Unidad2/Directivas_evaluacion_tierras_agricultura_regadio.pdf)|
+
+---
