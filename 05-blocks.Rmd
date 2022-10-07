@@ -1,30 +1,24 @@
-# Informacion General
+# Material bibliografico
 
-## Estudiantes 2022 {-}
+#### Unidad I {-}
 
-<center>**Cuadro 3. Estudiantes del año 2022**</center>
+<center>***Cuadro 5**. Material Bibliografico para la Unidad 1* </center>
 
-<div style="font-size: 09px">
-|Estudiantes|Seccion|Dia|Correo|Grupo|Suelo|
-|:---|:---:|---|---|---|---|
-|aristigueta, reinaldo|01|jueves|r74525@gmail.com|01|suelo-1|
-|gerig, noryelis|01|jueves|	ngerig9714@gmail.com|
-|gonzalez, mayerlin|01|jueves|gonzalezmayerlin97@gmail.com|
-|leonard, samuel|01|jueves|sdlcaldera@gmail.com|
-|moreno, felix|01|jueves|felixandresmoreno00@gmail.com|
-|muñoz, omar|01|jueves|omar.mz148@gmail.com|
-|peña, luis|01|jueves|luis.toto.leal@gmailcom|
-|ramirez, alfredo|01|jueves|at.rd14@gmail.com|
-|ruiz, francisco|01|jueves|fcojvruiz@gmail.com|
-|torres, diego|01|jueves|dgtorres838@gmail.com|
-|calaza, jose|02|viernes|josemcalaza110595@gmail.com|
-|carrero, isis|02|viernes|isiscarolina90@gmail.com|
-|izaguirre, jose|02|viernes|**jose.izaguirre.20896876**|
-|lugo, luis|02|viernes|lugo.lz.luis@gmail.com|
-|mendoza, gabriel|02|viernes|**gabriel.mendoza.17578774**|
-|miliani, domingo|02|viernes|miliani1105@gmail.com|
-|reina, gian|02|viernes|gianalexrs@gmail.com|
-|ruh, evaristo|02|viernes|evaristoruh1997@gmail.com|
-|ruh, rafael|02|viernes|rafel.ruh.aguirre@gmail.com|
-|tovar, diego|02|viernes|dtovar808@gmail.com|
-</div>
+|Descripción del material|
+|:---|
+|[Concepto de Suelos](pdf/Unidad1/Concepto_de_suelo.PDF)|
+|[Clasificación taxonómica de los suelos](pdf/Unidad1/Clasificacion_de_suelos.pdf)|
+|[Clave taxonómica de los suelos](pdf/Unidad1/Clave_taxonomia_suelos_2014.pdf)|
+|[Condiciones limitantes y Órdenes de los suelos](pdf/Unidad1/Condiciones_limitantes_ordenes_suelos.PDF)|
+
+
+#### Unidad II {-}
+
+<center>***Cuadro 6**. Material Bibliografico para la Unidad 2* </center>
+
+|Descripción del material|
+|:---|
+|[Directivas FAO para la evaluación de tierras en agricultura de secano](pdf/Unidad2/Directivas_evaluacion_tierras_agricultura_secano.pdf)|
+|[Directivas FAO para la evaluación de tierras en agricultura de regadío](pdf/Unidad2/Directivas_evaluacion_tierras_agricultura_regadio.pdf)|
+
+---

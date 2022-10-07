@@ -1,7 +1,5 @@
 # Unidad III
 
-You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file. 
-
 ---
 
 <div>
@@ -10,27 +8,5 @@ You can add parts to organize one or more book chapters together. Parts can be i
 <img src="Imagenes/construccion2.png" alt="Riego" width="126" height="107"/></a>
 </p>
 </div>
-
-### Semana 13 {-}
-
----
-
-## Semana 14 {-}
-
----
-
-## Semana 15 {-}
-
----
-
-## Semana 16 {-}
-
----
-
-## Semana 17 {-}
-
----
-
-## Semana 18 {-}
 
 ---

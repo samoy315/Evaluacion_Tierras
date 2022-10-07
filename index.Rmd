@@ -76,7 +76,7 @@ La cátedra de Evaluación de Tierras, con sus profesores y todo el personal de 
 
 Para poder aprobar esta asignatura, deberá obtener una calificación mínima acumulada de 10 puntos (escala de 1 al 20 puntos), basado en la información que se presenta en el siguiente cuadro 1. Las evaluaciones perdidas contarán como cero puntos.
 
-<center>*Cuadro 1. Plan de evaluacion de la asignatura*</center>
+<center>***Cuadro 1**. Plan de evaluacion de la asignatura*</center>
 
 ![](Imagenes/Aprobar2.PNG)
 
