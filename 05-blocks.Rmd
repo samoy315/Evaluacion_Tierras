@@ -1,5 +1,7 @@
 # Material bibliografico
 
+En este apartado encontrará múltiples documentos para su lectura, referentes a los temas que iremos abarcando en la asignatura durante el semestre. La idea es que lo apoyen en el desarrollo de las prácticas y en el trabajo extra - aula. Esperamos sea de utilidad.
+
 #### Unidad I {-}
 
 <center>***Cuadro 5**. Material Bibliografico para la Unidad 1* </center>
@@ -22,3 +24,16 @@
 |[Directivas FAO para la evaluación de tierras en agricultura de regadío](pdf/Unidad2/Directivas_evaluacion_tierras_agricultura_regadio.pdf)|
 
 ---
+
+#### Unidad III {-}
+
+<center>***Cuadro 7**. Material Bibliografico para la Unidad 3* </center>
+
+|Descripción del material|
+|:---|
+|[Evalucion de tierras con informacion escasa](pdf/Unidad3/Material_lectura_teoria_semana_15_Evalu_tierras_informacion_escasa.pdf)|
+
+---
+
+
+

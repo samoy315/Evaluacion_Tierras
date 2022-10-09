@@ -1,6 +1,6 @@
 # Informacion General
 
-## Estudiantes 2022 {-}
+### Estudiantes 2022 {-}
 
 <center>***Cuadro 7**. Estudiantes del año 2022*</center>
 
@@ -28,3 +28,5 @@
 |ruh, rafael|02|viernes|rafel.ruh.aguirre@gmail.com|
 |tovar, diego|02|viernes|dtovar808@gmail.com|
 </div>
+
+### Notas

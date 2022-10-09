@@ -1,12 +1,89 @@
-# Unidad III
+# Unidad III {#alirio}
+
+En esta tercera unidad abordaremos diversos temas como: a) la aplicación de conceptos y principios básicos de la Lecturas de mapas de suelos y la localización de los mismos en el terreno; b) la interpretación de fotografías aéreas como base para la cartografía de suelos, y finalmente c) aplicaremos los conocimientos adquiridos durante la asignatura para realizar una Evaluación de tierras expedita en áreas con escasa información de los suelos.
 
 ---
 
+### Semana 13 {-}
+###### Practica 9: Lectura de Mapas y Ubicación de suelos - Práctica de campo {-}
+
+> Recuerde que la **Guía Práctica de la Unidad 3**, se encuentra incorporada a la de la Unidad 2.
+
+
 <div>
 <p style = 'text-align:center;'>
-<a>
-<img src="Imagenes/construccion2.png" alt="Riego" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad3/Clase_teoria_semana_13_Lectura_mapa.pdf" target="_blank" title="Lectura de mapas"><img src="Imagenes/presentacion2.png" alt="Lectura de mapas" width="126" height="107"/></a>
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad2/Guía_Prácticas_ Unidades_2_3.pdf" target="_blank" title="Guia practicas Unidades 2 y 3"><img src="Imagenes/practica3.png" alt="Guia Practica 2 y 3" width="126" height="107"/></a> -->
+<a href="pdf/xxx.pdf" target="_blank" title="Video introductorio Practica 10"><img src="Imagenes/youtube5.png" alt="Intruccion practica 10" width="150" height="107"/></a>
 </p>
 </div>
 
 ---
+
+### Semana 14 {-}
+###### Practica 10: Interpretación de Fotografías aéreas - Aula de clases {-}
+
+<div>
+<p style = 'text-align:center;'>
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_07_Teoria_FAO.pdf" target="_blank" title="Directivas FAO TUT CUT UT"><img src="Imagenes/presentacion2.png" alt="Directivas FAO 1" width="126" height="107"/></a> -->
+<a href="pdf/xxx.pdf" target="_blank" title="Video introductorio Practica 11"><img src="Imagenes/youtube5.png" alt="Introduccion practica 11" width="150" height="107"/></a>
+</p>
+</div>
+---
+
+### Semana 15 {-}
+###### Practica 11: Evaluación de tierras con escasa información - Práctica de campo {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad3/Clase_teoria_semana_15_Evaluación_áreas_poca_informacion.pdf" target="_blank" title="ET poco informacion"><img src="Imagenes/presentacion2.png" alt="ET poco informacion" width="126" height="107"/></a>
+<!-- <a href="pdf/xxx.pdf" target="_blank" title="Video introductorio Practica 7"><img src="Imagenes/youtube5.png" alt="Introduccion practica 7" width="150" height="107"/></a> -->
+</p>
+</div>
+
+---
+
+### Semana 16 {-}
+###### Exposición oral del trabajo extra - aula {-}
+
+---
+
+### Semana 17 {-}
+###### Presentación escrita del Examen teórico - práctico {-}
+
+---
+
+### Semana 18 {-}
+###### Recuperación de Unidades I, II y III {-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- --- -->
+
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <a> -->
+<!-- <img src="Imagenes/construccion2.png" alt="Riego" width="126" height="107"/></a> -->
+<!-- </p> -->
+<!-- </div> -->
+
+<!-- --- -->

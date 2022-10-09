@@ -91,7 +91,7 @@ Conozca nuestro personal docente en el Cuadro 2. y no está demás hacer de su c
 |Profesor|Seccion|Correo|
 |:---:|:---:|:---:|
 |Juan Carlos Rey|Jueves pm|jcrey67@gmail.com|
-|Victor Sevilla|Viernes pm|vasl66@gmail.com|
+|Victor Sevilla|Viernes pm|samoy315@gmail.com|
 |Barbara Rodriguez|Jueves y Viernes pm|barbara.rodriguez.mg@gmail.com|
 
 ---
@@ -106,7 +106,7 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 
 <h6 style="text-align: center;">Unidad 1</h1>
 
-|Semana|Contenido|Modalidad|
+|Semana|Contenido|
 |:---:|:---|:---:|
 |0|Presentación de la asignatura|
 |1|Clasificación taxonómica de suelos|
