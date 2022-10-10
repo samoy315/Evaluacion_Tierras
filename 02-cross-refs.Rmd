@@ -81,6 +81,7 @@ Clasificación de las tierras según su Capacidad de Fertilidad, y armonización
 <!-- <a style = 'padding-right: 40px;' href="pdf/xxx.pdf" target="_blank" title="Clase de repaso de la unidad 2"><img src="Imagenes/presentacion2.png" alt="texto alternativo" width="126" height="107"/></a> -->
 <!-- </p> -->
 <!-- </div> -->
+
 ---
 
 ### Semana 12 {-}
