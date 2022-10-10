@@ -21,13 +21,13 @@ github-repo: rstudio/bookdown-demo
 
 ---
 
-## Bienvenida {-}
+### Bienvenida {-}
 
 Los miembros de la cátedra de **Evaluación de Tierras**, le damos la más cordial bienvenida a nuestra asignatura. En nuestra Cátedra nos encontramos muy entusiasmados con el inicio de otro nuevo semestre, en donde lo acompañaremos en la aventura de aprender a caracterizar, clasificar y evaluar las tierras agrícolas con el fin de conocer su vocación agrícola sostenible.
 
 ---
 
-## Instrucciones {-}
+### Instrucciones {-}
 
 En esta página encontrará diferentes elementos necesarios para cursar con éxito nuestra asignatura, como: indicaciones generales, programación de actividades, sistemas de evaluación, materiales teóricos, prácticos (guías), datos del trabajo extra - aula, y bibliografías de interés para su lectura. También encontrará enlaces para la descarga de mucha de la información e inclusive link que lo llevaran a videos, formularios y cuestionarios disponibles de la asignatura.
 
@@ -37,7 +37,7 @@ También podrá revisar sus calificaciones, lo que le permitirá llevar un regis
 
 ---
 
-## Objetivos {-}
+### Objetivos {-}
 
 #### General {-}
 
@@ -52,7 +52,9 @@ El objetivo general de esta asignatura es capacitar a los estudiantes en la eval
 
 ---
 
-## Normas {-}
+### Normas {-}
+
+###### Modalidad Presencial {-}
 
 Evaluación de Tierras es una asignatura del séptimo semestre, y se dicta en una sesión Teórica-práctica de 3 horas de duración los días jueves y viernes en el horario de 1:30 pm – 4:45 pm en aulas del Departamento de Edafología.
 
@@ -70,9 +72,16 @@ Si tienes algún problema personal o actividad permanente que le impida asistir 
 
 La cátedra de Evaluación de Tierras, con sus profesores y todo el personal de apoyo, están a su disposición para orientarte y ayudarte a solventar los problemas que se le puedan presentar, siempre y cuando acudas a ellos, conozcan y acaten las reglas establecidas y asuma con responsabilidad el compromiso con la asignatura.
 
+###### Modalidad Mixta {-}
+
+En esta modalidad compartiremos actividades tanto en línea como presenciales, estas últimas contemplan algunas prácticas en laboratorio y todas las de campo, además de la totalidad de las evaluaciones que son de obligatoria asistencia.
+
+Para las actividades en línea dispondremos de varias opciones para el apoyo a los estudiantes: a) Realizaremos reuniones vía meet o zoom en el horario de clases de la asignatura, es decir Jueves y Viernes de 1:30 pm a 4:45 pm. en donde su profesor estar atento a cualquier pregunta, duda o inquietud que tengas los estudiantes. b) la asignatura dispondrá de un canal o grupo en Telegram para aclarar dudas o proporcionar información general de interés para el éxito del semestre.
+
+
 ---
 
-## ¿Como aprobar? {-}
+### ¿Como aprobar? {-}
 
 Para poder aprobar esta asignatura, deberá obtener una calificación mínima acumulada de 10 puntos (escala de 1 al 20 puntos), basado en la información que se presenta en el siguiente cuadro 1. Las evaluaciones perdidas contarán como cero puntos.
 
@@ -82,7 +91,7 @@ Para poder aprobar esta asignatura, deberá obtener una calificación mínima ac
 
 ---
 
-## Profesores {-}
+### Profesores {-}
 
 Conozca nuestro personal docente en el Cuadro 2. y no está demás hacer de su conocimiento que estamos a su disposición para ayudarlo a avanzar en su proceso de formación y por eso, no dudes en contactarnos si lo requiere.
 
@@ -96,7 +105,7 @@ Conozca nuestro personal docente en el Cuadro 2. y no está demás hacer de su c
 
 ---
 
-## Calendario academico {-}
+### Calendario academico {-}
 
 A continuación el Cuadro 3, muestra los contenidos de la asignatura de **Evaluación de Tierras**, y su semana correspondiente. Cada unidad dispondrá de materiales de estudio (teóricos - prácticos), actividades y evaluaciones.
 

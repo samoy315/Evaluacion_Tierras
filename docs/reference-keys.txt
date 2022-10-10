@@ -4,4 +4,3 @@ alirio
 trabajo-extra---aula
 material-bibliografico
 informacion-general
-notas
