@@ -1,20 +1,20 @@
 # Unidad II
 
-Esta segunda unidad consta de siete semanas de actividades, en donde conoceremos los principios fundamentales, características y objetivos de diferentes sistemas de clasificación de tierra, como:
+Esta segunda unidad conoceremos los principios fundamentales, características y objetivos de diferentes sistemas de clasificación de tierra, como:
 
 * Capacidad de Uso Agropecuario de las Tierras
 * Directivas FAO para la evaluación de la aptitud de las tierras para usos específicos
-* Clasificación con fines de Capacidad de Fertilidad de los suelos.
+* Clasificación con fines de Capacidad de fertilidad de los suelos.
 * Clasificación de las tierras con fines de Riego
 
 También aplicaremos los diferentes sistemas de clasificación en estudios de caso con datos reales.
 
-En esta sección encontrará diversa información como: materiales de estudio (Presentaciones de las clases teóricas, Guías de prácticas, videos y bibliografías recomendadas para su lectura) e Información para la realización del trabajo Extra - aula. Le sugerimos que revises constantemente esta sección, ya que se estará actualizando constantemente.
+En esta sección encontrará diversa información como: materiales de estudio (Presentaciones de las clases teóricas, guías de prácticas, videos y bibliografías recomendadas para su lectura) e Información para la realización del trabajo Extra - aula. Le sugerimos que revises constantemente esta sección, ya que se estará actualizando constantemente.
 
 ---
 
-### Semana 4 {-}
-###### Practica 6: Metodología de Evaluación de tierras por su capacidad de uso agropecuario {-}
+### Semana 6 {-}
+###### Practica 4: Metodología de Evaluación de tierras por su capacidad de uso agropecuario {-}
 
 <div>
 <p style = 'text-align:center;'>
@@ -76,11 +76,11 @@ Clasificación de las tierras según su Capacidad de Fertilidad, y armonización
 ### Semana 11 {-}
 ###### Exposición oral del trabajo extra - aula {-}
 
-<div>
-<p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/xxx.pdf" target="_blank" title="Clase de repaso de la unidad 2"><img src="Imagenes/presentacion2.png" alt="texto alternativo" width="126" height="107"/></a>
-</p>
-</div>
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/xxx.pdf" target="_blank" title="Clase de repaso de la unidad 2"><img src="Imagenes/presentacion2.png" alt="texto alternativo" width="126" height="107"/></a> -->
+<!-- </p> -->
+<!-- </div> -->
 ---
 
 ### Semana 12 {-}

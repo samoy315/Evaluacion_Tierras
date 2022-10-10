@@ -2,7 +2,7 @@
 
 ### Estudiantes 2022 {-}
 
-<center>***Cuadro 7**. Estudiantes del año 2022*</center>
+<center>***Cuadro 8**. Estudiantes del año 2022*</center>
 
 <div style="font-size: 09px">
 |Estudiantes|Seccion|Dia|Correo|Grupo|Suelo|
