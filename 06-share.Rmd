@@ -29,4 +29,4 @@
 |tovar, diego|02|viernes|dtovar808@gmail.com|
 </div>
 
-### Notas {-}
+### Calificaciones {-}
