@@ -18,7 +18,7 @@ En esta sección encontrará diversa información como: materiales de estudio (P
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_06_Capacidad de uso.pdf" target="_blank" title="Capacidad de uso agropecuario de las tierras"><img src="Imagenes/presentacion2.png" alt="Capacidad de uso" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_06_Capacidad de uso.pdf" target="_blank" title="Capacidad de uso agropecuario de las tierras"><img src="Imagenes/presentacion3.png" alt="Capacidad de uso" width="126" height="107"/></a>
 <a style = 'padding-right: 40px;' href="pdf/Unidad2/Guía_Prácticas_ Unidades_2_3.pdf" target="_blank" title="Guia practicas Unidades 2 y 3"><img src="Imagenes/practica3.png" alt="Guia Practica 2 y 3" width="126" height="107"/></a>
 <a href="Disponible.html" target="_blank" title="Video introductorio Practica 5"><img src="Imagenes/youtube5.png" alt="Intruccion practica 5" width="150" height="107"/></a>
 </p>
@@ -31,7 +31,7 @@ Tipos de utilización de Tierras (TUT), Unidades de Tierras (UT) y Cualidades de
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_07_Teoria_FAO.pdf" target="_blank" title="Directivas FAO TUT CUT UT"><img src="Imagenes/presentacion2.png" alt="Directivas FAO 1" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_07_Teoria_FAO.pdf" target="_blank" title="Directivas FAO TUT CUT UT"><img src="Imagenes/presentacion3.png" alt="Directivas FAO 1" width="126" height="107"/></a>
 <a href="Disponible.html" target="_blank" title="Video introductorio Practica 6"><img src="Imagenes/youtube5.png" alt="Introduccion practica 6" width="150" height="107"/></a>
 </p>
 </div>
@@ -43,7 +43,7 @@ Cualidad Humedad Disponible
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_08_Humedad disponible.pdf" target="_blank" title="Humedad disponible"><img src="Imagenes/presentacion2.png" alt="Humedad disponible" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_08_Humedad disponible.pdf" target="_blank" title="Humedad disponible"><img src="Imagenes/presentacion3.png" alt="Humedad disponible" width="126" height="107"/></a>
 <a href="Disponible.html" target="_blank" title="Video introductorio Practica 7"><img src="Imagenes/youtube5.png" alt="Introduccion practica 7" width="150" height="107"/></a>
 </p>
 </div>
@@ -56,7 +56,7 @@ Clasificación de las tierras según su Capacidad de Fertilidad, y armonización
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_09_Capacidad_fertilidad.pdf" target="_blank" title="Clasificación de las tierras según Fertilidad"><img src="Imagenes/presentacion2.png" alt="Fertilidad" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_09_Capacidad_fertilidad.pdf" target="_blank" title="Clasificación de las tierras según Fertilidad"><img src="Imagenes/presentacion3.png" alt="Fertilidad" width="126" height="107"/></a>
 <a href="Disponible.html" target="_blank" title="Video introductorio Practica 8"><img src="Imagenes/youtube5.png" alt="Introduccion practica 8" width="150" height="107"/></a>
 </p>
 </div>
@@ -67,7 +67,7 @@ Clasificación de las tierras según su Capacidad de Fertilidad, y armonización
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_10_evaluación_tierras_con_fines_riego.pdf" target="_blank" title="Evaluación de tierras con fines de riego"><img src="Imagenes/presentacion2.png" alt="Riego" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_10_evaluación_tierras_con_fines_riego.pdf" target="_blank" title="Evaluación de tierras con fines de riego"><img src="Imagenes/presentacion3.png" alt="Riego" width="126" height="107"/></a>
 <!-- <a href="pdf/xxx.pdf" target="_blank" title="Video sobre trabajo Extra"><img src="Imagenes/youtube5.png" alt="Trabajo Extra - aula" width="150" height="107"/></a> -->
 </p>
 </div>
