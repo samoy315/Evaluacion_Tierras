@@ -14,7 +14,7 @@ En esta tercera unidad abordaremos diversos temas como: a) la aplicación de con
 <p style = 'text-align:center;'>
 <a style = 'padding-right: 40px;' href="pdf/Unidad3/Clase_teoria_semana_13_Lectura_mapa.pdf" target="_blank" title="Lectura de mapas"><img src="Imagenes/presentacion3.png" alt="Lectura de mapas" width="126" height="107"/></a>
 <!-- <a style = 'padding-right: 40px;' href="pdf/Unidad2/Guía_Prácticas_ Unidades_2_3.pdf" target="_blank" title="Guia practicas Unidades 2 y 3"><img src="Imagenes/practica3.png" alt="Guia Practica 2 y 3" width="126" height="107"/></a> -->
-<a href="Disponible.html" target="_blank" title="Video introductorio Practica 10"><img src="Imagenes/youtube5.png" alt="Intruccion practica 10" width="150" height="107"/></a>
+<a href="disponible.html" target="_blank" title="Video introductorio Practica 10"><img src="Imagenes/youtube5.png" alt="Intruccion practica 10" width="150" height="107"/></a>
 </p>
 </div>
 
@@ -26,7 +26,7 @@ En esta tercera unidad abordaremos diversos temas como: a) la aplicación de con
 <div>
 <p style = 'text-align:center;'>
 <!-- <a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_07_Teoria_FAO.pdf" target="_blank" title="Directivas FAO TUT CUT UT"><img src="Imagenes/presentacion2.png" alt="Directivas FAO 1" width="126" height="107"/></a> -->
-<a href="Disponible.html" target="_blank" title="Video introductorio Practica 11"><img src="Imagenes/youtube5.png" alt="Introduccion practica 11" width="150" height="107"/></a>
+<a href="disponible.html" target="_blank" title="Video introductorio Practica 11"><img src="Imagenes/youtube5.png" alt="Introduccion practica 11" width="150" height="107"/></a>
 </p>
 </div>
 ---
