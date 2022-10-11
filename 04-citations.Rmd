@@ -12,7 +12,7 @@ A continuación dispone de tres iconos donde descargar la informacion de los Per
 <p style = 'text-align:center;'>
 <a style = 'padding-right: 40px;' href="#perfiles" title="Perfiles de suelos"><img src="Imagenes/perfiles3.png" alt="Perfiles de suelos" width="126" height="107"/></a>
 <a style = 'padding-right: 40px;' href="pdf/Unidad1/Guia_trabajo_extra_aula.pdf" target="_blank" title="Guia del Trabajo Extra - aula"><img src="Imagenes/practica3.png" alt="Guia del Trabajo Extra - aula" width="126" height="107"/></a>
-<a href="pdf/xxx.pdf" target="_blank" title="Video del Trabajo Extra - aula"><img src="Imagenes/youtube5.png" alt="trabajo extra - aula" width="150" height="107"/></a>
+<a href="disponible.html" target="_blank" title="Video del Trabajo Extra - aula"><img src="Imagenes/youtube5.png" alt="trabajo extra - aula" width="150" height="107"/></a>
 </p>
 </div>
 
