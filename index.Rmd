@@ -140,7 +140,7 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 
 |Semana|Contenido|
 |:---:|:---|
-|13|Lectura de Mapas y Ubicación de suelos - Práctica de campo|
+|13|Lectura de Mapas y Ubicación de suelos - **Práctica de campo**|
 |14|Interpretación de Fotografías aéreas - Aula de clases|
 |15|Evaluación de tierras con escasa información en **campo** y **Prueba corta**|
 |16|**Presentación oral de trabajo extra - aula**|
