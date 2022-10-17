@@ -30,4 +30,36 @@
 <p> La columna "Suelo" se refiere al Perfil de suelos asignado para el trabajo extra - aula </p>
 </div>
 
+---
+
+<center>***Cuadro 9**. Grupos y perfiles de suelos para el Trabajo Extra - aula*</center>
+
+<div style="font-size: 09px">
+|Estudiantes|Seccion|Grupo|Suelo|
+|:---|:---:|:---:|:---:|
+|aristigueta, reinaldo|01|
+|gerig, noryelis|01|1|Suelo 08|
+|gonzalez, mayerlin|01|
+|leonard, samuel|01|
+|moreno, felix|01|
+|muñoz, omar|01|
+|peña, luis|01|
+|ramirez, alfredo|01|
+|ruiz, francisco|01|1|Suelo 07|
+|torres, diego|01|
+|calaza, jose|02|
+|carrero, isis|02|
+|izaguirre, jose|02|1|Suelo 04|
+|lugo, luis|02|
+|mendoza, gabriel|02|
+|miliani, domingo|02|1|Suelo 05|
+|reina, gian|02|1|Suelo 01|
+|ruh, evaristo|02|
+|ruh, rafael|02|
+|tovar, diego|02|1|Suelo 03|
+<p> La columna "Suelo" se refiere al Perfil de suelos asignado para el trabajo extra - aula </p>
+</div>
+
+---
+
 ### Calificaciones {-}
