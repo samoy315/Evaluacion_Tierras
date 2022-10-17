@@ -4,7 +4,7 @@
 
 <center>***Cuadro 8**. Estudiantes del año 2022*</center>
 
-<div style="font-size: 12px">
+<div style="font-size: 10px">
 |Estudiantes|Seccion|Dia|Correo|
 |:---|:---:|---|:---:|
 |aristigueta, reinaldo|01|jueves|r74525@gmail.com|
