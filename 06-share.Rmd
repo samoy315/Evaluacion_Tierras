@@ -4,38 +4,38 @@
 
 <center>***Cuadro 8**. Estudiantes del año 2022*</center>
 
-<div style="font-size: 09px">
-|Estudiantes|Seccion|Dia|Correo|Grupo|Suelo|
-|:---|:---:|---|:---:|:---:|---|
+<div style="font-size: 12px">
+|Estudiantes|Seccion|Dia|Correo|
+|:---|:---:|---|:---:|
 |aristigueta, reinaldo|01|jueves|r74525@gmail.com|
-|gerig, noryelis|01|jueves|	ngerig9714@gmail.com|1|Suelo 08|
+|gerig, noryelis|01|jueves|	ngerig9714@gmail.com|
 |gonzalez, mayerlin|01|jueves|gonzalezmayerlin97@gmail.com|
 |leonard, samuel|01|jueves|sdlcaldera@gmail.com|
 |moreno, felix|01|jueves|felixandresmoreno00@gmail.com|
 |muñoz, omar|01|jueves|omar.mz148@gmail.com|
 |peña, luis|01|jueves|luis.toto.leal@gmailcom|
 |ramirez, alfredo|01|jueves|at.rd14@gmail.com|
-|ruiz, francisco|01|jueves|fcojvruiz@gmail.com|1|Suelo 07|
+|ruiz, francisco|01|jueves|fcojvruiz@gmail.com|
 |torres, diego|01|jueves|dgtorres838@gmail.com|
 |calaza, jose|02|viernes|josemcalaza110595@gmail.com|
 |carrero, isis|02|viernes|isiscarolina90@gmail.com|
-|izaguirre, jose|02|viernes|**jose.izaguirre.20896876**|1|Suelo 04|
+|izaguirre, jose|02|viernes|**jose.izaguirre.20896876**|
 |lugo, luis|02|viernes|lugo.lz.luis@gmail.com|
 |mendoza, gabriel|02|viernes|**gabriel.mendoza.17578774**|
-|miliani, domingo|02|viernes|miliani1105@gmail.com|1|Suelo 05|
-|reina, gian|02|viernes|gianalexrs@gmail.com|1|Suelo 01|
+|miliani, domingo|02|viernes|miliani1105@gmail.com|
+|reina, gian|02|viernes|gianalexrs@gmail.com|1|
 |ruh, evaristo|02|viernes|evaristoruh1997@gmail.com|
 |ruh, rafael|02|viernes|rafel.ruh.aguirre@gmail.com|
-|tovar, diego|02|viernes|dtovar808@gmail.com|1|Suelo 03|
-<p> La columna "Suelo" se refiere al Perfil de suelos asignado para el trabajo extra - aula </p>
+|tovar, diego|02|viernes|dtovar808@gmail.com|1|
+<!-- <p> La columna "Suelo" se refiere al Perfil de suelos asignado para el trabajo extra - aula </p> -->
 </div>
 
 ---
 
 <center>***Cuadro 9**. Grupos y perfiles de suelos para el Trabajo Extra - aula*</center>
 
-<div style="font-size: 09px">
-|Estudiantes|Seccion|Grupo|Suelo|
+<div style="font-size: 12px">
+|Estudiantes|Seccion|Grupo|Suelos|
 |:---|:---:|:---:|:---:|
 |aristigueta, reinaldo|01|
 |gerig, noryelis|01|1|Suelo 08|
@@ -57,7 +57,7 @@
 |ruh, evaristo|02|
 |ruh, rafael|02|
 |tovar, diego|02|1|Suelo 03|
-<p> La columna "Suelo" se refiere al Perfil de suelos asignado para el trabajo extra - aula </p>
+<p> La columna <b>"Suelos"</b> se refiere al Perfil de suelo asignado a cada alumno para el trabajo extra - aula </p>
 </div>
 
 ---
