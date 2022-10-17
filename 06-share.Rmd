@@ -38,25 +38,25 @@
 |Estudiantes|Seccion|Grupo|Suelos|
 |:---|:---:|:---:|:---:|
 |aristigueta, reinaldo|01|
-|gerig, noryelis|01|1|Suelo 08|
+|gerig, noryelis|01|01|Suelo 08|
 |gonzalez, mayerlin|01|
 |leonard, samuel|01|
 |moreno, felix|01|
 |muñoz, omar|01|
 |peña, luis|01|
 |ramirez, alfredo|01|
-|ruiz, francisco|01|1|Suelo 07|
+|ruiz, francisco|01|01|Suelo 07|
 |torres, diego|01|
 |calaza, jose|02|
-|carrero, isis|02|
-|izaguirre, jose|02|1|Suelo 04|
-|lugo, luis|02|
-|mendoza, gabriel|02|
-|miliani, domingo|02|1|Suelo 05|
-|reina, gian|02|1|Suelo 01|
+|carrero, isis|02|02|Suelo 10|
+|izaguirre, jose|02|01|Suelo 04|
+|lugo, luis|02|02|Suelo 06|
+|mendoza, gabriel|02|02|Suelo 02|
+|miliani, domingo|02|01|Suelo 05|
+|reina, gian|02|01|Suelo 01|
 |ruh, evaristo|02|
 |ruh, rafael|02|
-|tovar, diego|02|1|Suelo 03|
+|tovar, diego|02|01|Suelo 03|
 <p> La columna <b>"Suelos"</b> se refiere al Perfil de suelo asignado a cada alumno para el trabajo extra - aula </p>
 </div>
 
