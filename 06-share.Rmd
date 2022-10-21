@@ -17,16 +17,20 @@
 |ramirez, alfredo|01|jueves|at.rd14@gmail.com|
 |ruiz, francisco|01|jueves|fcojvruiz@gmail.com|
 |torres, diego|01|jueves|dgtorres838@gmail.com|
-|calaza, jose|02|viernes|josemcalaza110595@gmail.com|
+|ruh, evaristo|01|jueves|evaristoruh1997@gmail.com|
+|ruh, rafael|01|jueves|rafel.ruh.aguirre@gmail.com|
+|mendoza, gabriel|01|jueves|**gabriel.mendoza.17578774**|
+|calaza, jose|01|jueves|josemcalaza110595@gmail.com|
+|Nieves Fabian|01|jueves|-|
+|Ruiz Francisco|01|jueves|-|
 |carrero, isis|02|viernes|isiscarolina90@gmail.com|
 |izaguirre, jose|02|viernes|joseluis0zero@gmail.com|
 |lugo, luis|02|viernes|lugo.lz.luis@gmail.com|
-|mendoza, gabriel|02|viernes|**gabriel.mendoza.17578774**|
 |miliani, domingo|02|viernes|miliani1105@gmail.com|
 |reina, gian|02|viernes|gianalexrs@gmail.com|1|
-|ruh, evaristo|02|viernes|evaristoruh1997@gmail.com|
-|ruh, rafael|02|viernes|rafel.ruh.aguirre@gmail.com|
 |tovar, diego|02|viernes|dtovar808@gmail.com|1|
+
+
 <!-- <p> La columna "Suelo" se refiere al Perfil de suelos asignado para el trabajo extra - aula </p> -->
 </div>
 
