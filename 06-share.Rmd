@@ -19,7 +19,7 @@
 |torres, diego|01|jueves|dgtorres838@gmail.com|
 |ruh, evaristo|01|jueves|evaristoruh1997@gmail.com|
 |ruh, rafael|01|jueves|rafel.ruh.aguirre@gmail.com|
-|mendoza, gabriel|01|jueves|**gabriel.mendoza.17578774**|
+|mendoza, gabriel|01|jueves|mendozagabriel51@gmail.com|
 |calaza, jose|01|jueves|josemcalaza110595@gmail.com|
 |Nieves Fabian|01|jueves|-|
 |Ruiz Francisco|01|jueves|-|
@@ -44,13 +44,13 @@
 |aristigueta, reinaldo|01|
 |gerig, noryelis|01|01|Suelo 08|
 |gonzalez, mayerlin|01|
-|leonard, samuel|01|
+|leonard, samuel|01|02|Suelo 03|
 |moreno, felix|01|
 |muñoz, omar|01|
-|peña, luis|01|
+|peña, luis|01|02|Suelo 04|
 |ramirez, alfredo|01|
 |ruiz, francisco|01|01|Suelo 07|
-|torres, diego|01|
+|torres, diego|01|02|Suelo 09|
 |calaza, jose|02|
 |carrero, isis|02|02|Suelo 10|
 |izaguirre, jose|02|01|Suelo 04|
