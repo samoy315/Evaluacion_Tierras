@@ -63,6 +63,9 @@
 |tovar, diego|02|01|Suelo 03|
 <p> La columna <b>"Suelos"</b> se refiere al Perfil de suelo asignado a cada alumno para el trabajo extra - aula </p>
 </div>
+<br>
+
+> Recuerden que hasta que no forme su grupo y se envíe a su profesor no se le asignará el Suelo para el trabajo extra - aula.
 
 ---
 
