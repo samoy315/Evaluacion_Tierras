@@ -3,6 +3,7 @@
 En esta primera Unidad de la asignatura pretendemos cubrir los conceptos y principios básicos de la **Clasificación taxonómica y Cartografía de los suelos**, así como mostrar un ejemplo de la gran **Variabilidad espacial de tierras** que ocurre en nuestro país. En esta sección encontrará diversa información como: materiales de estudio (Presentaciones de las clases teóricas, guías de prácticas, videos y bibliografías recomendadas para su lectura) e Información para la realización del trabajo Extra - aula. Le sugerimos que revises constantemente esta sección, ya que se estará actualizando constantemente.
 
 ---
+
 ### Semana 0 {-}
 ###### Presentacion de la asignatura {-}
 
@@ -60,6 +61,7 @@ En esta primera Unidad de la asignatura pretendemos cubrir los conceptos y princ
 <a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_04_repaso_U1.pdf" target="_blank" title="Clase de repaso de la unidad 1"><img src="Imagenes/presentacion3.png" alt="texto alternativo" width="126" height="107"/></a>
 </p>
 </div>
+
 ---
 
 ### Semana 5 {-}
@@ -70,4 +72,5 @@ En esta primera Unidad de la asignatura pretendemos cubrir los conceptos y princ
 <a href="disponible.html" target="_blank" title="Video introductorio Pratica 4"><img src="Imagenes/youtube5.png" alt="Video Pratica 4" width="150" height="107"></a>
 </p>
 </div>
+
 ---

@@ -13,6 +13,7 @@ description: |
   set in the _output.yml file.
 link-citations: yes
 github-repo: rstudio/bookdown-demo
+
 ---
 
 # Introduccion a la asignatura {-}
@@ -93,7 +94,7 @@ Para poder aprobar esta asignatura, deberá obtener una calificación mínima ac
 
 ### Profesores {-}
 
-Conozca nuestro personal docente en el Cuadro 2. y no está demás hacer de su conocimiento que estamos a su disposición para ayudarlo a avanzar en su proceso de formación y por eso, no dude en contactarnos si lo requiere.
+Conozca nuestro personal docente en el **Cuadro 2**. y no está demás hacer de su conocimiento que estamos a su disposición para ayudarlo a avanzar en su proceso de formación y por eso, no dude en contactarnos si lo requiere.
 
 <center> ***Cuadro 2.** Profesores de la asignatura **Evaluacion de Tierras*** </center>
 
@@ -116,11 +117,11 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 <h6 style="text-align: center;">Unidad 1</h1>
 
 |Semana|Contenido|
-|:---:|:---|:---:|
+|:---:|:---|
 |0|Presentación de la asignatura|
 |1|Clasificación taxonómica de suelos|
 |2|Cartografía de suelos|
-|3|Variabilidad espacial de los suelos en Venezuela y **Prueba corta I**|
+|3|Variabilidad espacial de suelos en Venezuela y **Prueba corta I**|
 |4|**Presentación oral de trabajo extra - aula**|
 |5|**Presentación de Examen teórico - práctico**|
 
@@ -131,7 +132,7 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 |6|Evaluación de tierras por su capacidad de uso agropecuario|
 |7|Directivas FAO: Cualidades y Tipos de utilización de Tierras|
 |8|Directivas FAO: Cualidad Humedad Disponible|
-|9|Clasificación de las tierras según Fertilidad y **Prueba corta**|
+|9|Clasificación de tierras según Fertilidad y **Prueba corta**|
 |10|Evaluación de tierras con fines de riego|
 |11|**Presentación oral de trabajo extra - aula**|
 |12|**Presentación de Examen teórico - práctico**|
@@ -142,7 +143,7 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 |:---:|:---|
 |13|Lectura de Mapas y Ubicación de suelos - **Práctica de campo**|
 |14|Interpretación de Fotografías aéreas - Aula de clases|
-|15|Evaluación de tierras con escasa información en **campo** y **Prueba corta**|
+|15|Evaluación de tierras con escasa información y **Prueba corta**|
 |16|**Presentación oral de trabajo extra - aula**|
 |17|**Presentación de Examen teórico - práctico**|
 |18|**Recuperación de Unidades I, II y III**|

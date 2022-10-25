@@ -45,8 +45,8 @@
 |gerig, noryelis|01|01|Suelo 08|
 |gonzalez, mayerlin|01|
 |leonard, samuel|01|02|Suelo 03|
-|moreno, felix|01|
-|muñoz, omar|01|
+|moreno, felix|01|03|Suelo 11|
+|muñoz, omar|01|03|Suelo 06|
 |peña, luis|01|02|Suelo 04|
 |ramirez, alfredo|01|
 |ruiz, francisco|01|01|Suelo 07|
