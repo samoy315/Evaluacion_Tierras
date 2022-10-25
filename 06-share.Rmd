@@ -59,7 +59,7 @@
 |miliani, domingo|02|01|Suelo 05|
 |reina, gian|02|01|Suelo 01|
 |ruh, evaristo|02|
-|ruh, rafael|02|
+|ruh, rafael|01*|01|Suelo 05|
 |tovar, diego|02|01|Suelo 03|
 <p> La columna <b>"Suelos"</b> se refiere al Perfil de suelo asignado a cada alumno para el trabajo extra - aula </p>
 </div>
