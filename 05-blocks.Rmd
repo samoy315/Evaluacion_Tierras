@@ -12,7 +12,8 @@ En este apartado encontrará múltiples documentos para su lectura, referentes a
 |[Clasificación taxonómica de los suelos](pdf/Unidad1/Clasificacion_de_suelos.pdf)|
 |[Clave taxonómica de los suelos](pdf/Unidad1/Clave_taxonomia_suelos_2014.pdf)|
 |[Condiciones limitantes y Órdenes de los suelos](pdf/Unidad1/Condiciones_limitantes_ordenes_suelos.PDF)|
-
+|[Factores y Procesos formadores de suelos](pdf/Unidad1/Factores_Procesos_Suelos.pdf)|
+|[GeoVenezuela - Apéndice cartográfico](https://bibliofep.fundacionempresaspolar.org/publicaciones/colecciones/apendice-cartografico/ "GeoVenezuela Fundacion Empresas Polar")|
 
 #### Unidad II {-}
 
