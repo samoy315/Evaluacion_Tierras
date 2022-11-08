@@ -98,7 +98,7 @@ Conozca nuestro personal docente en el **Cuadro 2**. y no está demás hacer de 
 
 <center> ***Cuadro 2.** Profesores de la asignatura **Evaluacion de Tierras*** </center>
 
-<div style="font-size: 11px">
+<div style="font-size: 10px">
 |Profesor|Seccion|Correo|
 |:---:|:---:|:---:|
 |Juan Carlos Rey|Jueves pm|jcrey67@gmail.com|
