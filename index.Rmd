@@ -98,15 +98,17 @@ Conozca nuestro personal docente en el **Cuadro 2**. y no está demás hacer de 
 
 <center> ***Cuadro 2.** Profesores de la asignatura **Evaluacion de Tierras*** </center>
 
+<div style="font-size: 12px">
 |Profesor|Seccion|Correo|
 |:---:|:---:|:---:|
 |Juan Carlos Rey|Jueves pm|jcrey67@gmail.com|
 |Victor Sevilla|Viernes pm|samoy315@gmail.com|
 |Barbara Rodriguez|Jueves y Viernes pm|barbara.rodriguez.mg@gmail.com|
+</div>
 
 ---
 
-### Calendario academico {-}
+### Calendario {-}
 
 A continuación en el **Cuadro 3**, se muestran los contenidos de la asignatura de **Evaluación de Tierras**, en su semana correspondiente. Cada unidad dispondrá de materiales de estudio (teóricos - prácticos), actividades y evaluaciones.
 
