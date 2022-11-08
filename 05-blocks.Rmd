@@ -15,6 +15,9 @@ En este apartado encontrará múltiples documentos para su lectura, referentes a
 |[Clasificaion taxonomica de suelos ET](pdf/Unidad1/Clasificacion_taxonomica_suelos.pdf)|
 |[Factores y Procesos formadores de suelos](pdf/Unidad1/Factores_Procesos_Suelos.pdf)|
 |[GeoVenezuela - Apéndice cartográfico](https://bibliofep.fundacionempresaspolar.org/publicaciones/colecciones/apendice-cartografico/ "GeoVenezuela Fundacion Empresas Polar")|
+|[Nomenclatura de Horizontes Pedogeneticos](pdf/Unidad1/Nomenclatura_Horizontes.pdf)|
+|[Suelos de la Unidad de Produccion Las Guabinas, Chaguaramas, Guarico](https://www.researchgate.net/publication/326679388_EVALUACION_DE_LOS_SUELOS_DE_LA_UNIDAD_DE_PRODUCCION_LAS_GUABINAS_CHAGUARAMAS_ESTADO_GUARICO_VENEZUELA/ "Suelos Guabinas - Chaguaramas")|
+
 
 #### Unidad II {-}
 
