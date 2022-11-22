@@ -69,7 +69,7 @@ En esta primera Unidad de la asignatura pretendemos cubrir los conceptos y princ
 
 <div>
 <p style = 'text-align:center;'>
-<a href="disponible.html" target="_blank" title="Video introductorio Pratica 4"><img src="Imagenes/youtube5.png" alt="Video Pratica 4" width="150" height="107"></a>
+<a href="https://youtu.be/bGlNzsV00KU" target="_blank" title="Video introductorio Pratica 4"><img src="Imagenes/youtube5.png" alt="Introduccion a la Pratica 4" width="150" height="107"></a>
 </p>
 </div>
 
