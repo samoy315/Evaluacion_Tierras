@@ -76,7 +76,7 @@ A continuación se muestran los Tipos de Utilización de las Tierras (TUT) que d
 
 Asignación de Tipos de Utilización de Tierras para cada suelo (estudiante).
 
-<center>***Cuadro 10**. Tipos de Utilización de Tierras para cada suelo (estudiante).*</center>
+<center>***Cuadro 10**. Tipos de Utilización de Tierras para cada (estudiante).*</center>
 
 <div style="font-size: 12px">
 |Estudiantes|Suelos|TUT 1 |TUT 2|
