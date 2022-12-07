@@ -20,7 +20,7 @@ En esta sección encontrará diversa información como: materiales de estudio (P
 <p style = 'text-align:center;'>
 <a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_06_Capacidad de uso.pdf" target="_blank" title="Capacidad de uso agropecuario de las tierras"><img src="Imagenes/presentacion3.png" alt="Capacidad de uso" width="126" height="107"/></a>
 <a style = 'padding-right: 40px;' href="pdf/Unidad2/Guía_Prácticas_ Unidades_2_3.pdf" target="_blank" title="Guia practicas Unidades 2 y 3"><img src="Imagenes/practica3.png" alt="Guia Practica 2 y 3" width="126" height="107"/></a>
-<a href="disponible.html" target="_blank" title="Video introductorio Practica 5"><img src="Imagenes/youtube5.png" alt="Intruccion practica 5" width="150" height="107"/></a>
+<a href="https://youtu.be/ufQtowrSpFw" target="_blank" title="Video introductorio Practica 5"><img src="Imagenes/youtube5.png" alt="Intruccion practica 5" width="150" height="107"/></a>
 </p>
 </div>
 ---
@@ -32,7 +32,7 @@ Tipos de utilización de Tierras (TUT), Unidades de Tierras (UT) y Cualidades de
 <div>
 <p style = 'text-align:center;'>
 <a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_07_Teoria_FAO.pdf" target="_blank" title="Directivas FAO TUT CUT UT"><img src="Imagenes/presentacion3.png" alt="Directivas FAO 1" width="126" height="107"/></a>
-<a href="disponible.html" target="_blank" title="Video introductorio Practica 6"><img src="Imagenes/youtube5.png" alt="Introduccion practica 6" width="150" height="107"/></a>
+<a href="https://youtu.be/zH4crBM3NYw" target="_blank" title="Video introductorio Practica 6"><img src="Imagenes/youtube5.png" alt="Introduccion practica 6" width="150" height="107"/></a>
 </p>
 </div>
 ---
