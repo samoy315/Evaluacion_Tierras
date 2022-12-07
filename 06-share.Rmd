@@ -34,6 +34,8 @@
 
 ---
 
+### Grupos y Perfiles de suelos {-}
+
 <center>***Cuadro 9**. Grupos y perfiles de suelos para el Trabajo Extra - aula*</center>
 
 <div style="font-size: 12px">
@@ -67,4 +69,35 @@
 
 ---
 
-### Calificaciones {-}
+### Tipos de Utilizacion de las Tierras {-}
+
+A continuación se muestran los Tipos de Utilización de las Tierras (TUT) que deberán ser evaluados en cada uno de los suelos asignados. Al final deberé conocer la aptitud de sus suelos para cada TUT.
+
+
+Asignación de Tipos de Utilización de Tierras para cada suelo (estudiante).
+
+<center>***Cuadro 10**. Tipos de Utilización de Tierras para cada suelo (estudiante).*</center>
+
+<div style="font-size: 12px">
+|Estudiantes|Suelos|TUT 1 |TUT 2|
+|:---|:---:|:---:|:---:|
+|aristigueta, reinaldo|05|Berenjena|Merey|
+|gerig, noryelis|08|Girasol|Pasto Bermuda|
+|leonard, samuel|03|Caraota|Naranja|
+|moreno, felix|11|Ajonjoli|Aji dulce|
+|muñoz, omar|06|Melina|Mani|
+|ramirez, alfredo|02|Frijol|Cambur|
+|ruiz, francisco|07|Pasto Aleman|Sorgo|
+|torres, diego|09|Tomate|Pasto Tanner|
+|calaza, jose|10|Brachiaria mutica|Melon|
+|Nieves Fabian|01|Café|Ñame|
+|ruh, evaristo|04|Algodon|Quinchoncho|
+|ruh, rafael|05|Cebolla|Mango|
+|carrero, isis|10|Arroz|Patilla|
+|izaguirre, jose|04|Maiz|Pasto Guinea|
+|lugo, luis|06|Teca|Palma Aceitera|
+|mendoza, gabriel|02|Platano|Yuca|
+|miliani, domingo|05|Pimenton|Mandarina|
+|reina, gian|01|Cacao|Ocumo|
+|tovar, diego|03|Lechosa|Caña de azucar|
+</div>
