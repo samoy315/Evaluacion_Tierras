@@ -69,7 +69,7 @@
 
 ---
 
-### Tipos de Utilizacion de las Tierras {-}
+### Tipos de Utilizacion de las Tierras {-} 
 
 A continuación se muestran los Tipos de Utilización de las Tierras (TUT) que deberán ser evaluados en cada uno de los suelos asignados. Al final deberé conocer la aptitud de sus suelos para cada TUT.
 
