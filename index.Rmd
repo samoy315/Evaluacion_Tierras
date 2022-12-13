@@ -134,7 +134,7 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 |6|Evaluación de tierras por su capacidad de uso agropecuario|
 |7|Directivas FAO: Cualidades y Tipos de utilización de Tierras|
 |8|Directivas FAO: Cualidad Humedad Disponible|
-|9|Clasificación de tierras según Fertilidad y **Prueba corta**|
+|9|Clasificación de tierras según Fertilidad|
 |10|Evaluación de tierras con fines de riego|
 |11|**Presentación oral de trabajo extra - aula**|
 |12|**Presentación de Examen teórico - práctico**|

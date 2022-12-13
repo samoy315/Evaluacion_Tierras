@@ -44,7 +44,7 @@ Cualidad Humedad Disponible
 <div>
 <p style = 'text-align:center;'>
 <a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_08_Humedad disponible.pdf" target="_blank" title="Humedad disponible"><img src="Imagenes/presentacion3.png" alt="Humedad disponible" width="126" height="107"/></a>
-<a href="disponible.html" target="_blank" title="Video introductorio Practica 7"><img src="Imagenes/youtube5.png" alt="Introduccion practica 7" width="150" height="107"/></a>
+<a href="https://youtu.be/JJYZ6Dns8ds" target="_blank" title="Video introductorio Practica 7"><img src="Imagenes/youtube5.png" alt="Introduccion practica 7" width="150" height="107"/></a>
 </p>
 </div>
 ---
