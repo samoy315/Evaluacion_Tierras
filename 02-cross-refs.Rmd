@@ -57,7 +57,7 @@ Clasificación de las tierras según su Capacidad de Fertilidad, y armonización
 <div>
 <p style = 'text-align:center;'>
 <a style = 'padding-right: 40px;' href="pdf/Unidad2/Clase_teoria_semana_09_Capacidad_fertilidad.pdf" target="_blank" title="Clasificación de las tierras según Fertilidad"><img src="Imagenes/presentacion3.png" alt="Fertilidad" width="126" height="107"/></a>
-<a href="disponible.html" target="_blank" title="Video introductorio Practica 8"><img src="Imagenes/youtube5.png" alt="Introduccion practica 8" width="150" height="107"/></a>
+<a href="https://youtu.be/Lc_gXbceTDg" target="_blank" title="Video introductorio Practica 8"><img src="Imagenes/youtube5.png" alt="Introduccion practica 8" width="150" height="107"/></a>
 </p>
 </div>
 ---
