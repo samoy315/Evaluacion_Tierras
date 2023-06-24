@@ -70,12 +70,12 @@ En esta primera Unidad de la asignatura pretendemos cubrir los conceptos y princ
 ---
 
 ### Semana 4 {-}
-###### Presentación escrita del Examen teórico - práctico {-}
+###### Presentación escrita y presencial del Examen teórico - práctico {-}
 
-<!-- <div> -->
-<!-- <p style = 'text-align:center;'> -->
-<!-- <a href="https://youtu.be/bGlNzsV00KU" target="_blank" title="Video introductorio Pratica 4"><img src="Imagenes/youtube5.png" alt="Introduccion a la Pratica 4" width="150" height="107"></a> -->
-<!-- </p> -->
-<!-- </div> -->
+<div>
+<p style = 'text-align:center;'>
+<img src="Imagenes/Examen1.png" alt="Examen teorico-practico etapa I" width="150" height="174">
+</p>
+</div>
 
 ---
