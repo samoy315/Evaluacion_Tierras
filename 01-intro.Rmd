@@ -2,18 +2,18 @@
 
 En esta primera Unidad de la asignatura pretendemos cubrir los conceptos y principios básicos de la **Clasificación taxonómica y Cartografía de los suelos**, así como mostrar un ejemplo de la gran **Variabilidad espacial de tierras** que ocurre en nuestro país. En esta sección encontrará diversa información como: materiales de estudio (Presentaciones de las clases teóricas, guías de prácticas, videos y bibliografías recomendadas para su lectura) e Información para la realización del trabajo Extra - aula. Le sugerimos que revises constantemente esta sección, ya que se estará actualizando constantemente.
 
----
+<!-- --- -->
 
-### Semana 0 {-}
-###### Presentacion de la asignatura {-}
+<!-- ### Semana 0 {-} -->
+<!-- ###### Presentacion de la asignatura {-} -->
 
-<div>
-<p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_00.pdf" target="_blank" title="Presentacion de la asignatura"><img src="Imagenes/presentacion4.png" alt="Bienvenida" width="126" height="107"/></a>
-<a style = 'padding-right: 40px;' href="pdf/Unidad1/Guia_practica_unidad_1.pdf" target="_blank" title="Guia practica Unidad 1"><img src="Imagenes/practica3.png" alt="Guia Practica 1" width="126" height="107"/></a>
-<a href="https://youtu.be/JE0vUiCQrvs" target="_blank" title="Video explicacion Practica 1"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 1" width="150" height="107"/></a>
-</p>
-</div>
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_00.pdf" target="_blank" title="Presentacion de la asignatura"><img src="Imagenes/presentacion4.png" alt="Bienvenida" width="126" height="107"/></a> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad1/Guia_practica_unidad_1.pdf" target="_blank" title="Guia practica Unidad 1"><img src="Imagenes/practica3.png" alt="Guia Practica 1" width="126" height="107"/></a> -->
+<!-- <a href="https://youtu.be/JE0vUiCQrvs" target="_blank" title="Video explicacion Practica 1"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 1" width="150" height="107"/></a> -->
+<!-- </p> -->
+<!-- </div> -->
 
 ---
 
