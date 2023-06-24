@@ -25,7 +25,7 @@ En esta primera Unidad de la asignatura pretendemos cubrir los conceptos y princ
 <a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_00.pdf" target="_blank" title="Presentacion de la asignatura"><img src="Imagenes/presentacion4.png" alt="Bienvenida" width="126" height="107"/></a>
 <a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_01_Clasificacion_suelos.pdf" target="_blank" title="Clasificacion taxonomica de suelos"><img src="Imagenes/presentacion3.png" alt="Taxonomia" width="126" height="107"/></a>
 <a style = 'padding-right: 40px;' href="pdf/Unidad1/Guia_practica_unidad_1.pdf" target="_blank" title="Guia practica Unidad 1"><img src="Imagenes/practica3.png" alt="Guia Practica 1" width="126" height="107"/></a>
-<a href="https://youtu.be/JE0vUiCQrvs" target="_blank" title="Video explicacion Practica 1"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 1" width="150" height="107"/></a>
+<a href="https://youtu.be/JE0vUiCQrvs" target="_blank" title="Video introductorio a Practica 1"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 1" width="150" height="107"/></a>
 <!-- <a href="https://youtu.be/eydWEwYdXY8" target="_blank" title="Video introductorio Practica 2"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 2" width="150" height="107"/></a> -->
 </p>
 </div>
@@ -38,7 +38,8 @@ En esta primera Unidad de la asignatura pretendemos cubrir los conceptos y princ
 <div>
 <p style = 'text-align:center;'>
 <a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_02_Cartografia.pdf" target="_blank" title="Cartografia de suelos"><img src="Imagenes/presentacion3.png" alt="texto alternativo" width="126" height="107"/></a>
-<a href="https://youtu.be/kEEuicRulMk" target="_blank" title="Video introductorio Practica 3"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 3" width="150" height="107"/></a>
+<!-- <a href="https://youtu.be/kEEuicRulMk" target="_blank" title="Video introductorio Practica 3"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 3" width="150" height="107"/></a> -->
+<a href="https://youtu.be/eydWEwYdXY8" target="_blank" title="Video introductorio a Practica 2"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 2" width="150" height="107"/></a>
 </p>
 </div>
 
@@ -50,30 +51,31 @@ En esta primera Unidad de la asignatura pretendemos cubrir los conceptos y princ
 <div>
 <p style = 'text-align:center;'>
 <a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_03_Variabilidad_suelos.pdf" target="_blank" title="Variabilidad espacial de suelos en Venezuela"><img src="Imagenes/presentacion3.png" alt="texto alternativo" width="126" height="107"/></a>
+<a href="https://youtu.be/kEEuicRulMk" target="_blank" title="Video introductorio a Practica 3"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 3" width="150" height="107"/></a>
 <!-- <a href="pdf/xxx.pdf" target="_blank" title="Video sobre trabajo Extra - aula"><img src="Imagenes/youtube5.png" alt="Trabajo Extra - aula" width="150" height="107"/></a> -->
 </p>
 </div>
 
+<!-- --- -->
+
+<!-- ### Semana 4 {-} -->
+<!-- ###### Exposición oral del trabajo extra - aula {-} -->
+
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_04_repaso_U1.pdf" target="_blank" title="Clase de repaso de la unidad 1"><img src="Imagenes/presentacion3.png" alt="texto alternativo" width="126" height="107"/></a> -->
+<!-- </p> -->
+<!-- </div> -->
+
 ---
 
 ### Semana 4 {-}
-###### Exposición oral del trabajo extra - aula {-}
-
-<div>
-<p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_04_repaso_U1.pdf" target="_blank" title="Clase de repaso de la unidad 1"><img src="Imagenes/presentacion3.png" alt="texto alternativo" width="126" height="107"/></a>
-</p>
-</div>
-
----
-
-### Semana 5 {-}
 ###### Presentación escrita del Examen teórico - práctico {-}
 
-<div>
-<p style = 'text-align:center;'>
-<a href="https://youtu.be/bGlNzsV00KU" target="_blank" title="Video introductorio Pratica 4"><img src="Imagenes/youtube5.png" alt="Introduccion a la Pratica 4" width="150" height="107"></a>
-</p>
-</div>
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <a href="https://youtu.be/bGlNzsV00KU" target="_blank" title="Video introductorio Pratica 4"><img src="Imagenes/youtube5.png" alt="Introduccion a la Pratica 4" width="150" height="107"></a> -->
+<!-- </p> -->
+<!-- </div> -->
 
 ---
