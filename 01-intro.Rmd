@@ -9,9 +9,9 @@ En esta primera Unidad de la asignatura pretendemos cubrir los conceptos y princ
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_00.pdf" target="_blank" title="Presentacion de la asignatura"><img src="Imagenes/presentacion3.png" alt="Bienvenida" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_00.pdf" target="_blank" title="Presentacion de la asignatura"><img src="Imagenes/presentacion4.png" alt="Bienvenida" width="126" height="107"/></a>
 <a style = 'padding-right: 40px;' href="pdf/Unidad1/Guia_practica_unidad_1.pdf" target="_blank" title="Guia practica Unidad 1"><img src="Imagenes/practica3.png" alt="Guia Practica 1" width="126" height="107"/></a>
-<a href="https://youtu.be/JE0vUiCQrvs" target="_blank" title="Video introductorio Practica 1"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 1" width="150" height="107"/></a>
+<a href="https://youtu.be/JE0vUiCQrvs" target="_blank" title="Video explicacion Practica 1"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 1" width="150" height="107"/></a>
 </p>
 </div>
 
@@ -22,8 +22,11 @@ En esta primera Unidad de la asignatura pretendemos cubrir los conceptos y princ
 
 <div>
 <p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_00.pdf" target="_blank" title="Presentacion de la asignatura"><img src="Imagenes/presentacion4.png" alt="Bienvenida" width="126" height="107"/></a>
 <a style = 'padding-right: 40px;' href="pdf/Unidad1/Clase_teoria_semana_01_Clasificacion_suelos.pdf" target="_blank" title="Clasificacion taxonomica de suelos"><img src="Imagenes/presentacion3.png" alt="Taxonomia" width="126" height="107"/></a>
-<a href="https://youtu.be/eydWEwYdXY8" target="_blank" title="Video introductorio Practica 2"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 2" width="150" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Guia_practica_unidad_1.pdf" target="_blank" title="Guia practica Unidad 1"><img src="Imagenes/practica3.png" alt="Guia Practica 1" width="126" height="107"/></a>
+<a href="https://youtu.be/JE0vUiCQrvs" target="_blank" title="Video explicacion Practica 1"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 1" width="150" height="107"/></a>
+<!-- <a href="https://youtu.be/eydWEwYdXY8" target="_blank" title="Video introductorio Practica 2"><img src="Imagenes/youtube5.png" alt="Introduccion a la practica 2" width="150" height="107"/></a> -->
 </p>
 </div>
 

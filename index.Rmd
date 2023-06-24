@@ -120,35 +120,32 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 
 |Semana|Contenido|
 |:---:|:---|
-|0|Presentación de la asignatura|
-|1|Clasificación taxonómica de suelos|
+|1|Presentacion y Clasificación taxonómica de suelos|
 |2|Cartografía de suelos|
-|3|Variabilidad espacial de suelos en Venezuela y **Prueba corta I**|
-|4|**Presentación oral de trabajo extra - aula**|
-|5|**Presentación de Examen teórico - práctico**|
+|3|Variabilidad espacial de suelos en Venezuela|
+|4|**Presentación de Examen teórico - práctico**|
 
 <h6 style="text-align: center;">Unidad 2</h1>
 
 |Semana|Contenido|
 |:---:|:---|
-|6|Evaluación de tierras por su capacidad de uso agropecuario|
-|7|Directivas FAO: Cualidades y Tipos de utilización de Tierras|
-|8|Directivas FAO: Cualidad Humedad Disponible|
-|9|Clasificación de tierras según Fertilidad|
-|10|Evaluación de tierras con fines de riego|
-|11|**Presentación oral de trabajo extra - aula**|
-|12|**Presentación de Examen teórico - práctico**|
+|5|Evaluación de tierras por su capacidad de uso agropecuario|
+|6|Directivas FAO: Cualidades y Tipos de utilización de Tierras|
+|7|Directivas FAO: Cualidad Humedad Disponible|
+|8|Clasificación de tierras según Fertilidad|
+|9|Evaluación de tierras con fines de riego|
+|10|**Presentación oral de trabajo extra - aula**|
+|11|**Presentación de Examen teórico - práctico**|
 
 <h6 style="text-align: center;">Unidad 3</h1>
 
 |Semana|Contenido|
 |:---:|:---|
-|13|Lectura de Mapas y Ubicación de suelos - **Práctica de campo**|
-|14|Interpretación de Fotografías aéreas - Aula de clases|
-|15|Evaluación de tierras con escasa información y **Prueba corta**|
-|16|**Presentación oral de trabajo extra - aula**|
-|17|**Presentación de Examen teórico - práctico**|
-|18|**Recuperación de Unidades I, II y III**|
+|12|Interpretación de Fotografías aéreas|
+|13|Lectura de Mapas y evaluación Expedita de tierras|
+|14|**Presentación oral de trabajo extra - aula**|
+|15|**Presentación de Examen teórico - práctico**|
+|16|**Recuperación de Unidades I, II y III**|
 <!-- |xx|<a href="https://youtu.be/JE0vUiCQrvs">prueba</a>| -->
 
 
