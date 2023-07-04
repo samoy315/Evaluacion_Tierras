@@ -2,7 +2,7 @@
 
 ### Estudiantes 2023 {-}
 
-<center>***Cuadro 8**. Estudiantes del año 2023*</center>
+<center>***Cuadro 8**. Estudiantes del año 2023.*</center>
 
 <div style="font-size: 10px">
 |Estudiantes|Seccion|Dia|Correo|
