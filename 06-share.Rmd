@@ -2,31 +2,19 @@
 
 ### Estudiantes 2023 {-}
 
-<center>***Cuadro 8**. Estudiantes del año 2022*</center>
+<center>***Cuadro 8**. Estudiantes del año 2023*</center>
 
 <div style="font-size: 10px">
 |Estudiantes|Seccion|Dia|Correo|
 |:---|:---:|---|:---:|
-|aristigueta, reinaldo|01|jueves|r74525@gmail.com|
-|gerig, noryelis|01|jueves|	ngerig9714@gmail.com|
-|leonard, samuel|01|jueves|sdlcaldera@gmail.com|
-|moreno, felix|01|jueves|felixandresmoreno00@gmail.com|
-|muñoz, omar|01|jueves|omar.mz148@gmail.com|
-|peña, luis|01|jueves|luis.toto.leal@gmailcom|
+|agrinzones, daniela|01|jueves|danielagrinzones631@gmail.com|
+|martinez, gabriel|01|jueves|	gabrielfmd99@gmail.com|
+|martinez, denis (RETIRADO)|01|jueves|denismartz7823@gmail.com|
 |ramirez, alfredo|01|jueves|at.rd14@gmail.com|
-|ruiz, francisco|01|jueves|fcojvruiz@gmail.com|
-|torres, diego|01|jueves|dgtorres838@gmail.com|
-|ruh, evaristo|01|jueves|evaristoruh1997@gmail.com|
-|ruh, rafael|01|jueves|rafel.ruh.aguirre@gmail.com|
-|mendoza, gabriel|01|jueves|mendozagabriel51@gmail.com|
-|calaza, jose|01|jueves|josemcalaza110595@gmail.com|
-|Nieves Fabian|01|jueves|fabianieves@gmail.com|
-|carrero, isis|02|viernes|isiscarolina90@gmail.com|
-|izaguirre, jose|02|viernes|joseluis0zero@gmail.com|
-|lugo, luis|02|viernes|lugo.lz.luis@gmail.com|
-|miliani, domingo|02|viernes|miliani1105@gmail.com|
-|reina, gian|02|viernes|gianalexrs@gmail.com|1|
-|tovar, diego|02|viernes|dtovar808@gmail.com|1|
+|reina, gian|01|jueves|gianalexrs@gmail.com|
+|rondón, juan|01|jueves|jjrt322@gmail.com|
+|yepez, alfredo|01|jueves|ayepezfranco@gmail.com|
+|sanchez, jesus|01|jueves|jsdh1998@gmail.com|
 
 
 <!-- <p> La columna "Suelo" se refiere al Perfil de suelos asignado para el trabajo extra - aula </p> -->
@@ -39,33 +27,21 @@
 <center>***Cuadro 9**. Grupos y perfiles de suelos para el Trabajo Extra - aula*</center>
 
 <div style="font-size: 12px">
-|Estudiantes|Seccion|Grupo|Suelos|
+|Estudiantes|Seccion|Suelos|
 |:---|:---:|:---:|:---:|
-|aristigueta, reinaldo|01|04|Suelo 05|
-|gerig, noryelis|01|01|Suelo 08|
-|leonard, samuel|01|02|Suelo 03|
-|moreno, felix|01|03|Suelo 11|
-|muñoz, omar|01|03|Suelo 06|
-|peña, luis|01|02|Suelo 04|
-|ramirez, alfredo|01|04|Suelo 02|
-|ruiz, francisco|01|01|Suelo 07|
-|torres, diego|01|02|Suelo 09|
-|calaza, jose|01|04|Suelo 10|
-|Nieves Fabian|01|03|Suelo 01|
-|ruh, evaristo|01|04|Suelo 04|
-|ruh, rafael|01|01|Suelo 05|
-|carrero, isis|02|02|Suelo 10|
-|izaguirre, jose|02|01|Suelo 04|
-|lugo, luis|02|02|Suelo 06|
-|mendoza, gabriel|02|02|Suelo 02|
-|miliani, domingo|02|01|Suelo 05|
-|reina, gian|02|01|Suelo 01|
-|tovar, diego|02|01|Suelo 03|
+|agrinzones, daniela|01|Suelo 09|
+|martinez, gabriel|01|Suelo 05|
+|martinez, denis (RETIRADO)|01|Suelo 00|
+|ramirez, alfredo|01|Suelo 10|
+|reina, gian|01|Suelo 06|
+|rondón, juan|01|Suelo 03|
+|yepez, alfredo|01|Suelo 08|
+|sanchez, jesus|01|Suelo 07|
 <p> La columna <b>"Suelos"</b> se refiere al Perfil de suelo asignado a cada alumno para el trabajo extra - aula </p>
 </div>
 <br>
 
-> Recuerden que hasta que no forme su grupo y se envíe a su profesor no se le asignará el Suelo para el trabajo extra - aula.
+<!-- > Recuerden que hasta que no forme su grupo y se envíe a su profesor no se le asignará el Suelo para el trabajo extra - aula. -->
 
 ---
 
@@ -81,23 +57,12 @@ Asignación de Tipos de Utilización de Tierras para cada suelo (estudiante).
 <div style="font-size: 12px">
 |Estudiantes|Suelos|TUT 1 |TUT 2|
 |:---|:---:|:---:|:---:|
-|aristigueta, reinaldo|05|Berenjena|Merey|
-|gerig, noryelis|08|Girasol|Pasto Bermuda|
-|leonard, samuel|03|Caraota|Naranja|
-|moreno, felix|11|Ajonjoli|Aji dulce|
-|muñoz, omar|06|Melina|Mani|
-|ramirez, alfredo|02|Frijol|Cambur|
-|ruiz, francisco|07|Pasto Aleman|Sorgo|
-|torres, diego|09|Tomate|Pasto Tanner|
-|calaza, jose|10|Brachiaria mutica|Melon|
-|Nieves Fabian|01|Café|Ñame|
-|ruh, evaristo|04|Algodon|Quinchoncho|
-|ruh, rafael|05|Cebolla|Mango|
-|carrero, isis|10|Arroz|Patilla|
-|izaguirre, jose|04|Maiz|Pasto Guinea|
-|lugo, luis|06|Teca|Palma Aceitera|
-|mendoza, gabriel|02|Platano|Yuca|
-|miliani, domingo|05|Pimenton|Mandarina|
-|reina, gian|01|Cacao|Ocumo|
-|tovar, diego|03|Lechosa|Caña de azucar|
+|agrinzones, daniela|09|Arroz|Pasto Guinea|
+|martinez, gabriel|05|Tomate|Cacao|
+|martinez, denis (RETIRADO)|00|----|----|
+|ramirez, alfredo|10|Teca|Brachiaria mutica|
+|reina, gian|06|Pasto Bermuda|Caraota|
+|rondón, juan|03|Maiz|Palma Aceitera|
+|yepez, alfredo|08|Girasol|Platano|
+|sanchez, jesus|07|Pasto Tanner|Cafe|
 </div>
