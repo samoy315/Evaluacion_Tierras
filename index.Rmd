@@ -23,7 +23,7 @@ github-repo: "rstudio/bookdown-demo"
 
 ### Bienvenida {-}
 
-Los miembros de la cátedra de **Evaluación de Tierras**, le damos la más cordial bienvenida a nuestra asignatura. En nuestra Cátedra nos encontramos muy entusiasmados con el inicio de otro nuevo semestre, en donde los acompañaremos en la aventura de aprender a caracterizar, clasificar y evaluar las tierras agrícolas con el fin de conocer su vocación sostenible.
+Los miembros de la cátedra de **Evaluación de Tierras**, le damos la más cordial bienvenida a nuestra asignatura. En nuestra Cátedra nos encontramos muy entusiasmados con el inicio de otro nuevo semestre, en donde los acompañaremos en la aventura de aprender a caracterizar, clasificar y evaluar las tierras agrícolas con el fin de conocer su vocación de uso sostenible.
 
 ---
 
@@ -33,7 +33,6 @@ En esta página encontrará diferentes elementos necesarios para cursar con éxi
 
 Esta página ha sido diseñada para complementar las actividades presenciales y maximizar las interaccion entre alumnos y profesores sobre las actividades a realizar.
 
-También podrá revisar sus calificaciones, lo que le permitirá llevar un registro de su rendimiento académico.
 
 ---
 
@@ -56,17 +55,17 @@ El objetivo general de esta asignatura es capacitar a los estudiantes en la eval
 
 ###### Modalidad Presencial {-}
 
-Evaluación de Tierras es una asignatura del séptimo semestre, y se dicta en una sesión Teórica-práctica de 3 horas de duración los días jueves y viernes en el horario de 1:30 pm – 4:45 pm., en aulas del Departamento de Edafología.
+Evaluación de Tierras es una asignatura del séptimo semestre, y se dicta en una sesión Teórica-práctica de 3 horas de duración los días jueves y viernes en el horario de 1:30 pm – 4:30 pm., en aulas del Departamento de Edafología.
 
 Las sesiones Teórico-prácticas son de obligatoria asistencia, tal como lo establece el reglamento vigente.
 
 Debes asistir a la sección Teórico-prácticas en la cual se inscribió; no puedes recuperar prácticas en otro grupo sin la debida autorización de su profesor y del profesor del grupo al cual quieres asistir.
 
-Solo se te permitirá la recuperación de una práctica por cada Unidad de la asignatura.
+Solo se le permitirá la recuperación de una práctica por cada Unidad de la asignatura.
 
 La no asistencia o incumplimiento de las actividades programadas por la asignatura deberá ser informada por escrito a la Cátedra dentro de las 48 horas de haber ocurrido la falta, incluyendo las constancias y los avales necesarios para su justificación.
 
-Deberás entregar la comunicación y los avales respectivos en la Secretaría del Departamento de Edafología o enviarla al correo electrónico del profesor  samoy315@gmail.com, donde será considerada en la próxima reunión de cátedra.
+Deberá enviar la comunicación y los avales respectivos al correo electrónico del profesor  samoy315@gmail.com, donde será considerada en la próxima reunión de cátedra.
 
 Si tienes algún problema personal o actividad permanente que le impida asistir a las clases, debes dirigirte a la Dirección de Escuela o al Consejo de Facultad solicitando aval para las inasistencias, pues la Cátedra no tiene potestad para hacerlo.
 
@@ -76,14 +75,18 @@ La cátedra de Evaluación de Tierras, con sus profesores y todo el personal de 
 
 En esta modalidad compartiremos actividades tanto a distancia como presenciales, estas últimas contemplan algunas prácticas en laboratorio y todas las de campo, además de la totalidad de las evaluaciones que son de obligatoria asistencia.
 
-Para las actividades a distancia dispondremos de varias opciones para el apoyo a los estudiantes: a) Realizaremos reuniones vía meet o zoom en el horario de clases de la asignatura, es decir Jueves y Viernes de 1:30 pm a 4:45 pm. en donde su profesor estara atento a cualquier pregunta, duda o inquietud que tengas los estudiantes. b) la asignatura dispondrá de un canal o grupo en Telegram para aclarar dudas o proporcionar información general de interés para el éxito del semestre. c) También podrá comunicarse con su profesor vía correo electrónico, los cuales se especifican más adelante.
+Para las actividades a distancia dispondremos de varias opciones para el apoyo a los estudiantes: a) Realizaremos reuniones vía Google meet en el horario de clases de la asignatura, es decir Jueves y Viernes de 1:30 pm a 4:30 pm. en donde su profesor estara atento a cualquier pregunta, duda o inquietud que tengas los estudiantes. b) la asignatura dispondrá de un canal o grupo en Telegram para aclarar dudas o proporcionar información general de interés para el éxito del semestre. c) También podrá comunicarse con su profesor vía correo electrónico, los cuales se especifican más adelante.
 
 
 ---
 
 ### ¿Como aprobar? {-}
 
-Para poder aprobar esta asignatura, deberá obtener una calificación mínima acumulada de 10 puntos (escala de 1 al 20 puntos), basado en la información que se presenta en el siguiente cuadro. Las evaluaciones perdidas contarán como cero puntos.
+Para poder aprobar esta asignatura, deberá obtener una calificación final mínima acumulada de 10 puntos (escala de 1 al 20 puntos), Además debe aprobar un mínimo de dos Unidades (etapas). 
+
+La ponderación de las unidades y actividades de la asignatura se presenta en el siguiente cuadro. Las evaluaciones perdidas contarán como cero puntos.
+
+Es importante resaltar que la NO presentación de los resultados de su trabajo Extra - Aula en cada etapa conlleva a la pérdida del derecho a recuperar la etapa correspondiente. 
 
 <center>***Cuadro 1**. Plan de evaluacion de la asignatura*</center>
 
@@ -103,6 +106,8 @@ Conozca nuestro personal docente en el **Cuadro 2**. y no está demás hacer de 
 |Juan Carlos Rey|Jueves pm|jcrey67@gmail.com|
 |Victor Sevilla|Viernes pm|samoy315@gmail.com|
 |Barbara Rodriguez|Jueves y Viernes pm|barbara.rodriguez.mg@gmail.com|
+|Henrry Ramirez|Jueves y Viernes pm|hjramirezap@gmail.com|
+
 </div>
 
 ---
@@ -141,7 +146,7 @@ Es importante tener en cuenta que **todas** Las evaluaciones se realizarán de m
 |Semana|Contenido|
 |:---:|:---|
 |12|Interpretación de Fotografías aéreas|
-|13|Lectura de Mapas y evaluación Expedita de tierras|
+|13|Practica de campo Mapas de suelos y evaluación de tierras|
 |14|**Presentación oral de trabajo extra - aula**|
 |15|**Presentación de Examen teórico - práctico**|
 |16|**Recuperación de Unidades I, II y III**|
